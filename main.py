@@ -20,41 +20,41 @@ class ReditScrape:
         )
         self.subreddit=self.configurationData["subreddit"]
         self.total_post=self.configurationData["total_post"]
-        #self.post_sorting=self.configurationData["post_sorting"]
+
+    def create_dir(self,path):
+        if not os.path.exists(path):
+            os.makedirs(path)
 
     def generate(self):
 
             subreddit = self.reddit.subreddit(self.subreddit)
             top_posts = subreddit.top(limit=self.total_post, time_filter='all')
-            output_directory = 'comment_csv_files'
+            comments_path = os.path.join(os.getcwd(),'Submission\\comments')
 
+            self.create_dir(comments_path)
 
-        # Iterate through the top posts and create CSV files for comments
-            count=1
-        # try:
+            post_df=[]
             for post in top_posts:
                 post_title = post.title
-                df=[]
-                # Get comments from the post
-                #post.comments.replace_more(limit=None)  # Load all comments
+                comment_df=[]
                 submission=self.reddit.submission(post.id)
-                #comments = post.comments.list()
                 submission.comments.replace_more(limit=0)
                 for comment in submission.comments.list():
-                    #if hasattr(comment,'body'):
-                    df.append([post.title,comment.body,comment.author,len(comment.replies.list()),comment.score])
-                df=pd.DataFrame(df, columns=['title','comment','author','total_replies','upvotes'])
-                # Create a CSV file for the post's comments
-                csv_filename = f"post_{count}.csv"
-                csv_path = os.path.join(output_directory, csv_filename)
+                    comment_df.append([comment.id,comment.body,comment.score,comment.depth,comment.created_utc,len(comment.replies.list()),comment.author])
+                comment_df=pd.DataFrame(comment_df, columns=['ID','Text','Upvotes','Depth','Created Timestamp','Replies','Author'])
+                csv_filename = f"{post.id}.csv"
+                csv_path = os.path.join(comments_path, csv_filename)
                 f = open(csv_path, "w")
-                df.to_csv(csv_path, index=True)
+                comment_df.to_csv(csv_path, index=True)
                 f.close()
-                count+=1
-                print(f"CSV file created for post '{post_title}'")
-        # except:
-        #     print("exception occurred")
-
+                post_df.append([post.title,post.id,post.url,post.score,post.num_comments,post.created_utc,post.subreddit.display_name,post.author,post.selftext])
+                print(f"CSV file created for post '{post.id}'")
+            post_df=pd.DataFrame(post_df,columns=['Title','ID','URL','Upvotes','Comments','Created Timestamp','Subreddit Name','Author','Text'])
+            csv_filename = f"posts.csv"
+            csv_path = os.path.join(os.path.join(os.getcwd(),'Submission'), csv_filename)
+            f = open(csv_path, "w")
+            post_df.to_csv(csv_path, index=True)
+            f.close()
 redit_instance=ReditScrape()
 redit_instance.initialize()
 redit_instance.generate()
