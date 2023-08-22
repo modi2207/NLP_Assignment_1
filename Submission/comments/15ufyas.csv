@@ -1,4 +1,4 @@
-,ID,Text,Upvotes,Depth,Created Timestamp,Replies,Author
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
 0,jwpyc4w,"Sweet: Dhonkeyo kaju (if that's what they are called), roas paan, zileybee, fen folhi, bis follhi. I have limited knowledge of folhis.
 
 
@@ -6,14 +6,14 @@ Kulhi: Okkeemiyaa, biskeemiyaa, kavaabu, masroshi, masroshi joints/cigars, patti
 
 
 Missing:
-Types of boakibaa and Sri Lankan inspired stuff like cutlets and rolls.",8,0,1692366571.0,0,primary0
+Types of boakibaa and Sri Lankan inspired stuff like cutlets and rolls.",9,0,2023-08-18 13:49:31 UTC,0,primary0,15ufyas
 1,jwpjfzt,"They just like Pokémon fr 
-Gotta catch ‘em all",7,0,1692359785.0,0,bananaboatflipper
-2,jwsbaza,"Available at Spice Hut, Carnival Area every evening 4 - 6",5,0,1692398695.0,0,caramelpuddin
-3,jwp9xwi,Mithaa ginain huri folhi,3,0,1692354148.0,0,azurebluejam
-4,jwqppls,Now I'm hungry 😔,3,0,1692376792.0,0,z80lives
-5,jwumt2x,"Masroshi, sausage rolls, havaadhulee bis, buscutlets, bajiya, patties, bis keemiya, kavaab, riha folhi, rihaakuru folhi, bakedbeans thingie, oh keemiya, cake folhi, roast paan",2,0,1692448133.0,0,WorldlyCheesecake55
-6,jwuz3o7,Bottom right looks like French toast,2,0,1692453965.0,0,BigCharlie16
-7,jwwguxv,"Kavab,bajiya,masroshi,Gulha,rolls",2,0,1692474465.0,0,jeffmishal
-8,jwx2zs6,"As a dhivehi living overseas, this hurts!",2,0,1692482737.0,0,IAmNotAmusedAnymore
-9,jws8lgj,tuna,0,0,1692397535.0,0,starlinkNFT
+Gotta catch ‘em all",7,0,2023-08-18 11:56:25 UTC,0,bananaboatflipper,15ufyas
+2,jwsbaza,"Available at Spice Hut, Carnival Area every evening 4 - 6",5,0,2023-08-18 22:44:55 UTC,0,caramelpuddin,15ufyas
+3,jwp9xwi,Mithaa ginain huri folhi,3,0,2023-08-18 10:22:28 UTC,0,azurebluejam,15ufyas
+4,jwqppls,Now I'm hungry 😔,3,0,2023-08-18 16:39:52 UTC,0,z80lives,15ufyas
+5,jwumt2x,"Masroshi, sausage rolls, havaadhulee bis, buscutlets, bajiya, patties, bis keemiya, kavaab, riha folhi, rihaakuru folhi, bakedbeans thingie, oh keemiya, cake folhi, roast paan",2,0,2023-08-19 12:28:53 UTC,0,WorldlyCheesecake55,15ufyas
+6,jwuz3o7,Bottom right looks like French toast,2,0,2023-08-19 14:06:05 UTC,0,BigCharlie16,15ufyas
+7,jwwguxv,"Kavab,bajiya,masroshi,Gulha,rolls",2,0,2023-08-19 19:47:45 UTC,0,jeffmishal,15ufyas
+8,jwx2zs6,"As a dhivehi living overseas, this hurts!",2,0,2023-08-19 22:05:37 UTC,0,IAmNotAmusedAnymore,15ufyas
+9,jws8lgj,tuna,0,0,2023-08-18 22:25:35 UTC,0,starlinkNFT,15ufyas
