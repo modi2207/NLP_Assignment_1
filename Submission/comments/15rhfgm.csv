@@ -1,9 +1,9 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,jw9hn9f,"Really puts things in perspective. Also, how come that picture is in the national archives of the UK and not with us?",4,0,2023-08-15 09:39:44 UTC,6,CarelessNightingale,15rhfgm
-1,jwa49zt,wonder what place is this in 1903,1,0,2023-08-15 13:13:08 UTC,0,PossibilityPowerful,15rhfgm
-2,jw9itbp,"The Maldives was a British protectorate between 1887 till 1965. The 1st picture is from 1903, so if I may be so bold to assume, it is most likely that the Brits took this picture for the sake of documentation of their overseas territories at the time. Thus, it is now being held in UK's National Archives for preservation of historical evidence/artefacts.",7,1,2023-08-15 09:54:16 UTC,2,Zestyclose-Speed-370,15rhfgm
-3,jwakqs2,"If I recall correctly, I read somewhere that the first picture is part of a series taken by a sailor from HMS High Flyer in 1903. I think there is a written log and more context about the expedition, which you have to search through the archives to find.",4,1,2023-08-15 15:02:37 UTC,1,z80lives,15rhfgm
-4,jw9lrrw,Cause thats what they do :'),2,1,2023-08-15 10:29:46 UTC,0,Omnikaalhu,15rhfgm
-5,jw9j2ak,Ah I see. My knowledge of history is not the best. Makes sense though. Brits need their trophies.,2,2,2023-08-15 09:57:20 UTC,1,CarelessNightingale,15rhfgm
-6,jwcxdmi,Interesting indeed!,1,2,2023-08-15 23:42:31 UTC,0,Zestyclose-Speed-370,15rhfgm
-7,jwa4wke,"attests that’s the amount of stuff they have from us, they took more from other countries and put them in their museums.",3,3,2023-08-15 13:17:44 UTC,0,PossibilityPowerful,15rhfgm
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,jw9hn9f,"Really puts things in perspective. Also, how come that picture is in the national archives of the UK and not with us?",4,0,2023-08-15 09:39:44 UTC,6,CarelessNightingale,15rhfgm,t3_15rhfgm,117,False,False,maldives
+1,jwa49zt,wonder what place is this in 1903,1,0,2023-08-15 13:13:08 UTC,0,PossibilityPowerful,15rhfgm,t3_15rhfgm,33,False,False,maldives
+2,jw9itbp,"The Maldives was a British protectorate between 1887 till 1965. The 1st picture is from 1903, so if I may be so bold to assume, it is most likely that the Brits took this picture for the sake of documentation of their overseas territories at the time. Thus, it is now being held in UK's National Archives for preservation of historical evidence/artefacts.",7,1,2023-08-15 09:54:16 UTC,2,Zestyclose-Speed-370,15rhfgm,t1_jw9hn9f,355,False,True,maldives
+3,jwakqs2,"If I recall correctly, I read somewhere that the first picture is part of a series taken by a sailor from HMS High Flyer in 1903. I think there is a written log and more context about the expedition, which you have to search through the archives to find.",5,1,2023-08-15 15:02:37 UTC,1,z80lives,15rhfgm,t1_jw9hn9f,254,False,False,maldives
+4,jw9lrrw,Cause thats what they do :'),2,1,2023-08-15 10:29:46 UTC,0,Omnikaalhu,15rhfgm,t1_jw9hn9f,28,False,False,maldives
+5,jw9j2ak,Ah I see. My knowledge of history is not the best. Makes sense though. Brits need their trophies.,2,2,2023-08-15 09:57:20 UTC,1,CarelessNightingale,15rhfgm,t1_jw9itbp,97,False,False,maldives
+6,jwcxdmi,Interesting indeed!,1,2,2023-08-15 23:42:31 UTC,0,Zestyclose-Speed-370,15rhfgm,t1_jwakqs2,19,False,True,maldives
+7,jwa4wke,"attests that’s the amount of stuff they have from us, they took more from other countries and put them in their museums.",3,3,2023-08-15 13:17:44 UTC,0,PossibilityPowerful,15rhfgm,t1_jw9j2ak,120,False,False,maldives

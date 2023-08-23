@@ -1,3 +1,3 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,fzal5nd,It's actually independence day. But thank you,3,0,2020-07-26 11:50:51 UTC,1,Voidvicer,hy4ntj
-1,fzar15i,Oops,2,1,2020-07-26 13:12:45 UTC,0,MarkkaMarc,hy4ntj
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,fzal5nd,It's actually independence day. But thank you,3,0,2020-07-26 11:50:51 UTC,1,Voidvicer,hy4ntj,t3_hy4ntj,45,False,False,maldives
+1,fzar15i,Oops,2,1,2020-07-26 13:12:45 UTC,0,MarkkaMarc,hy4ntj,t1_fzal5nd,4,False,True,maldives

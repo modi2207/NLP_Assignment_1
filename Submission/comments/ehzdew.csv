@@ -1,6 +1,6 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,fcn6bmj,Shame,1,0,2019-12-31 15:00:19 UTC,0,animalass,ehzdew
-1,fcnghd0,"The island that the Park Hyatt is on, which is entirely just for that hotel, is not that way. They are all about eco-sustainability and even openly show/invite guests to see such efforts.",1,0,2019-12-31 16:53:36 UTC,1,Mindyc3,ehzdew
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,fcn6bmj,Shame,1,0,2019-12-31 15:00:19 UTC,0,animalass,ehzdew,t3_ehzdew,5,False,False,maldives
+1,fcnghd0,"The island that the Park Hyatt is on, which is entirely just for that hotel, is not that way. They are all about eco-sustainability and even openly show/invite guests to see such efforts.",1,0,2019-12-31 16:53:36 UTC,1,Mindyc3,ehzdew,t3_ehzdew,187,False,False,maldives
 2,fcnlvrf,"Agreed, and further, most tourist islands are very clean. But Maldives is two worlds. One world is incentivised to provide a paradise to high paying guests and the other is where the maldivian people live.
 
-It is great Park Hyatt makes such effort; it would be better if the Maldivian general public followed their lead. But they don't and it seems like they are not aware the amount of plastic waste on the streets in their world is a problem.",2,1,2019-12-31 17:39:49 UTC,0,krishna_p,ehzdew
+It is great Park Hyatt makes such effort; it would be better if the Maldivian general public followed their lead. But they don't and it seems like they are not aware the amount of plastic waste on the streets in their world is a problem.",2,1,2019-12-31 17:39:49 UTC,0,krishna_p,ehzdew,t1_fcnghd0,444,False,True,maldives

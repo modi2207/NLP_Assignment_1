@@ -1,2 +1,2 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,jqx0k0r,Agree with this!,5,0,2023-07-06 17:44:48 UTC,0,thahutte,14sd5fh
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,jqx0k0r,Agree with this!,6,0,2023-07-06 17:44:48 UTC,0,thahutte,14sd5fh,t3_14sd5fh,16,False,False,maldives

@@ -1,6 +1,6 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,juxjpks,Do you think there is a similarity between koadi and the african “zangbeto” tradition?,2,0,2023-08-05 18:41:52 UTC,0,Maakanaa,15itgy1
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,juxjpks,Do you think there is a similarity between koadi and the african “zangbeto” tradition?,2,0,2023-08-05 18:41:52 UTC,0,Maakanaa,15itgy1,t3_15itgy1,86,False,False,maldives
 1,juz9bf6,"Wow didn't know this was a thing 
 
-where is this?",1,0,2023-08-06 02:11:19 UTC,1,burgerman000,15itgy1
-2,juzl062,R.Rasgetheemu,2,1,2023-08-06 03:50:39 UTC,0,PossibilityPowerful,15itgy1
+where is this?",1,0,2023-08-06 02:11:19 UTC,1,burgerman000,15itgy1,t3_15itgy1,49,False,False,maldives
+2,juzl062,R.Rasgetheemu,2,1,2023-08-06 03:50:39 UTC,0,PossibilityPowerful,15itgy1,t1_juz9bf6,13,False,True,maldives

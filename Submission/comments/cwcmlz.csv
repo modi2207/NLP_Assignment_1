@@ -1,9 +1,9 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,eyb3sx0,Nice photos 😀👌🏻👌🏻👌🏻,3,0,2019-08-28 06:56:03 UTC,1,aneesu401,cwcmlz
-1,f0xxudz,You own a lovely collection of the old Maldives,2,0,2019-09-21 07:59:19 UTC,2,,cwcmlz
-2,eya5y40,[deleted],3,0,2019-08-28 02:17:30 UTC,1,,cwcmlz
-3,eybw8ug,Great😍 collection 👌🏻👌🏻👌🏻👌🏻,1,0,2019-08-28 11:47:54 UTC,0,aneesu401,cwcmlz
-4,eybt9ul,Thanks. This was taken by my parents.,2,1,2019-08-28 11:23:57 UTC,0,sofierylala,cwcmlz
-5,f100pam,Thank you! All from my childhood growing up there,2,1,2019-09-21 22:40:08 UTC,1,sofierylala,cwcmlz
-6,eybvhlk,Dhoa,2,1,2019-08-28 11:42:23 UTC,0,sofierylala,cwcmlz
-7,f110l7u,Beautiful!,2,2,2019-09-22 02:33:34 UTC,0,,cwcmlz
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,eyb3sx0,Nice photos 😀👌🏻👌🏻👌🏻,3,0,2019-08-28 06:56:03 UTC,1,aneesu401,cwcmlz,t3_cwcmlz,19,False,False,maldives
+1,f0xxudz,You own a lovely collection of the old Maldives,2,0,2019-09-21 07:59:19 UTC,2,,cwcmlz,t3_cwcmlz,47,False,False,maldives
+2,eya5y40,[deleted],3,0,2019-08-28 02:17:30 UTC,1,,cwcmlz,t3_cwcmlz,9,1592371729.0,False,maldives
+3,eybw8ug,Great😍 collection 👌🏻👌🏻👌🏻👌🏻,1,0,2019-08-28 11:47:54 UTC,0,aneesu401,cwcmlz,t3_cwcmlz,26,False,False,maldives
+4,eybt9ul,Thanks. This was taken by my parents.,2,1,2019-08-28 11:23:57 UTC,0,sofierylala,cwcmlz,t1_eyb3sx0,37,False,True,maldives
+5,f100pam,Thank you! All from my childhood growing up there,2,1,2019-09-21 22:40:08 UTC,1,sofierylala,cwcmlz,t1_f0xxudz,49,False,True,maldives
+6,eybvhlk,Dhoa,2,1,2019-08-28 11:42:23 UTC,0,sofierylala,cwcmlz,t1_eya5y40,4,False,True,maldives
+7,f110l7u,Beautiful!,2,2,2019-09-22 02:33:34 UTC,0,,cwcmlz,t1_f100pam,10,False,False,maldives

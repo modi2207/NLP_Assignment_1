@@ -1,5 +1,5 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,eq25chn,That pic looks fascinating,3,0,2019-06-05 09:58:42 UTC,0,Mister20seven,bx0p0q
-1,eq3x9ud,Where’d you take this from?,2,0,2019-06-05 20:00:10 UTC,2,hypespren,bx0p0q
-2,eq3z240,From the rooftop of a 10 story building.,2,1,2019-06-05 20:16:32 UTC,1,husn,bx0p0q
-3,eq3z6yz,"Nice, the new igmh building really stands out huh",2,2,2019-06-05 20:17:48 UTC,0,hypespren,bx0p0q
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,eq25chn,That pic looks fascinating,3,0,2019-06-05 09:58:42 UTC,0,Mister20seven,bx0p0q,t3_bx0p0q,26,False,False,maldives
+1,eq3x9ud,Where’d you take this from?,2,0,2019-06-05 20:00:10 UTC,2,hypespren,bx0p0q,t3_bx0p0q,27,False,False,maldives
+2,eq3z240,From the rooftop of a 10 story building.,2,1,2019-06-05 20:16:32 UTC,1,husn,bx0p0q,t1_eq3x9ud,40,False,True,maldives
+3,eq3z6yz,"Nice, the new igmh building really stands out huh",2,2,2019-06-05 20:17:48 UTC,0,hypespren,bx0p0q,t1_eq3z240,49,False,False,maldives

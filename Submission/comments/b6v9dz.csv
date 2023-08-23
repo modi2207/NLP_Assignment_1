@@ -1,2 +1,2 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,el1o9ll,Amazing 👏,1,0,2019-04-16 19:58:25 UTC,0,ballasticpooper,b6v9dz
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,el1o9ll,Amazing 👏,1,0,2019-04-16 19:58:25 UTC,0,ballasticpooper,b6v9dz,t3_b6v9dz,9,False,False,maldives

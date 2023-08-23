@@ -1,2 +1,2 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,ewknjbn,Wow I loved Maldives,2,0,2019-08-11 02:07:27 UTC,0,rtmfrutilai,cogmhj
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,ewknjbn,Wow I loved Maldives,2,0,2019-08-11 02:07:27 UTC,0,rtmfrutilai,cogmhj,t3_cogmhj,20,False,False,maldives

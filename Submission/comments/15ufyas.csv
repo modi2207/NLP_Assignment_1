@@ -1,4 +1,4 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
 0,jwpyc4w,"Sweet: Dhonkeyo kaju (if that's what they are called), roas paan, zileybee, fen folhi, bis follhi. I have limited knowledge of folhis.
 
 
@@ -6,21 +6,21 @@ Kulhi: Okkeemiyaa, biskeemiyaa, kavaabu, masroshi, masroshi joints/cigars, patti
 
 
 Missing:
-Types of boakibaa and Sri Lankan inspired stuff like cutlets and rolls.",8,0,2023-08-18 13:49:31 UTC,0,primary0,15ufyas
+Types of boakibaa and Sri Lankan inspired stuff like cutlets and rolls.",9,0,2023-08-18 13:49:31 UTC,0,primary0,15ufyas,t3_15ufyas,512,1692367077.0,False,maldives
 1,jwpjfzt,"They just like Pokémon fr 
-Gotta catch ‘em all",7,0,2023-08-18 11:56:25 UTC,0,bananaboatflipper,15ufyas
-2,jwsbaza,"Available at Spice Hut, Carnival Area every evening 4 - 6",5,0,2023-08-18 22:44:55 UTC,0,caramelpuddin,15ufyas
-3,jwp9xwi,Mithaa ginain huri folhi,4,0,2023-08-18 10:22:28 UTC,0,azurebluejam,15ufyas
-4,jwqppls,Now I'm hungry 😔,3,0,2023-08-18 16:39:52 UTC,0,z80lives,15ufyas
-5,jwumt2x,"Masroshi, sausage rolls, havaadhulee bis, buscutlets, bajiya, patties, bis keemiya, kavaab, riha folhi, rihaakuru folhi, bakedbeans thingie, oh keemiya, cake folhi, roast paan",2,0,2023-08-19 12:28:53 UTC,0,WorldlyCheesecake55,15ufyas
-6,jwuz3o7,Bottom right looks like French toast,2,0,2023-08-19 14:06:05 UTC,0,BigCharlie16,15ufyas
-7,jwwguxv,"Kavab,bajiya,masroshi,Gulha,rolls",2,0,2023-08-19 19:47:45 UTC,0,jeffmishal,15ufyas
-8,jwx2zs6,"As a dhivehi living overseas, this hurts!",2,0,2023-08-19 22:05:37 UTC,0,IAmNotAmusedAnymore,15ufyas
-9,jws8lgj,tuna,0,0,2023-08-18 22:25:35 UTC,0,starlinkNFT,15ufyas
+Gotta catch ‘em all",7,0,2023-08-18 11:56:25 UTC,0,bananaboatflipper,15ufyas,t3_15ufyas,46,False,False,maldives
+2,jwsbaza,"Available at Spice Hut, Carnival Area every evening 4 - 6",5,0,2023-08-18 22:44:55 UTC,0,caramelpuddin,15ufyas,t3_15ufyas,57,False,False,maldives
+3,jwp9xwi,Mithaa ginain huri folhi,4,0,2023-08-18 10:22:28 UTC,0,azurebluejam,15ufyas,t3_15ufyas,24,False,False,maldives
+4,jwqppls,Now I'm hungry 😔,3,0,2023-08-18 16:39:52 UTC,0,z80lives,15ufyas,t3_15ufyas,16,False,False,maldives
+5,jwumt2x,"Masroshi, sausage rolls, havaadhulee bis, buscutlets, bajiya, patties, bis keemiya, kavaab, riha folhi, rihaakuru folhi, bakedbeans thingie, oh keemiya, cake folhi, roast paan",2,0,2023-08-19 12:28:53 UTC,0,WorldlyCheesecake55,15ufyas,t3_15ufyas,175,False,False,maldives
+6,jwuz3o7,Bottom right looks like French toast,2,0,2023-08-19 14:06:05 UTC,0,BigCharlie16,15ufyas,t3_15ufyas,36,False,False,maldives
+7,jwwguxv,"Kavab,bajiya,masroshi,Gulha,rolls",2,0,2023-08-19 19:47:45 UTC,0,jeffmishal,15ufyas,t3_15ufyas,33,False,False,maldives
+8,jwx2zs6,"As a dhivehi living overseas, this hurts!",2,0,2023-08-19 22:05:37 UTC,0,IAmNotAmusedAnymore,15ufyas,t3_15ufyas,41,False,False,maldives
+9,jws8lgj,tuna,0,0,2023-08-18 22:25:35 UTC,0,starlinkNFT,15ufyas,t3_15ufyas,4,False,False,maldives
 10,jxdk6yx,"Gotta name them all
 Gotta name them aaaaalll
-HEDHIKA!!!",1,0,2023-08-23 05:36:53 UTC,0,Inichi0nizuka,15ufyas
+HEDHIKA!!!",1,0,2023-08-23 05:36:53 UTC,0,Inichi0nizuka,15ufyas,t3_15ufyas,55,False,False,maldives
 11,jxdk8k9,"What’s that hedhika?
 
 It’s…..bajiyaaaa
-Bajiyaa",1,0,2023-08-23 05:37:23 UTC,0,Inichi0nizuka,15ufyas
+Bajiyaa",1,0,2023-08-23 05:37:23 UTC,0,Inichi0nizuka,15ufyas,t3_15ufyas,46,False,False,maldives

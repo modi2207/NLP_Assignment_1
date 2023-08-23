@@ -1,12 +1,12 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,jszogd3,The mods in this subreddit are not active like at all,4,0,2023-07-22 12:27:39 UTC,6,stxirs,156ioac
-1,jszrr8n,I second this,3,0,2023-07-22 12:58:44 UTC,0,burgerman000,156ioac
-2,jt55m3u,"I will discuss this with the other mods. This sub allowed polls  and images in the past, but due to excessive spam, we had to turn it into text-only.",3,0,2023-07-23 17:12:55 UTC,2,xayan123,156ioac
-3,jszumae,They probably didn't touch this after they made it,6,1,2023-07-22 13:23:59 UTC,5,th3bakari,156ioac
-4,jtha1er,Pls allow memes as long as it's Maldives themed,4,1,2023-07-26 04:00:15 UTC,0,jjsameer,156ioac
-5,jts57fw,"Now that more Maldivians are actively posting, you guys should definitely consider changing it soon while the momentum lasts.",1,1,2023-07-28 09:18:07 UTC,0,heyonuvaane,156ioac
-6,jszv8xq,Yeah. I haven't seen any mods active,2,2,2023-07-22 13:29:26 UTC,1,stxirs,156ioac
-7,jt3czn6,what if we made a new subreddit,2,2,2023-07-23 06:49:47 UTC,2,fen_thashi,156ioac
-8,jt10n2o,Damn that sucks,1,3,2023-07-22 18:36:04 UTC,0,pineapplethepotato,156ioac
-9,jt3oc1h,and call it what? New Maldives?,2,3,2023-07-23 09:20:05 UTC,1,th3bakari,156ioac
-10,jt4utst,Aneh Dhivehi Raahje,1,4,2023-07-23 15:57:21 UTC,0,Sharp_Status_589,156ioac
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,jszogd3,The mods in this subreddit are not active like at all,4,0,2023-07-22 12:27:39 UTC,6,stxirs,156ioac,t3_156ioac,53,False,False,maldives
+1,jszrr8n,I second this,3,0,2023-07-22 12:58:44 UTC,0,burgerman000,156ioac,t3_156ioac,13,False,False,maldives
+2,jt55m3u,"I will discuss this with the other mods. This sub allowed polls  and images in the past, but due to excessive spam, we had to turn it into text-only.",3,0,2023-07-23 17:12:55 UTC,2,xayan123,156ioac,t3_156ioac,149,False,False,maldives
+3,jszumae,They probably didn't touch this after they made it,7,1,2023-07-22 13:23:59 UTC,5,th3bakari,156ioac,t1_jszogd3,50,False,False,maldives
+4,jtha1er,Pls allow memes as long as it's Maldives themed,4,1,2023-07-26 04:00:15 UTC,0,jjsameer,156ioac,t1_jt55m3u,47,False,False,maldives
+5,jts57fw,"Now that more Maldivians are actively posting, you guys should definitely consider changing it soon while the momentum lasts.",1,1,2023-07-28 09:18:07 UTC,0,heyonuvaane,156ioac,t1_jt55m3u,125,False,True,maldives
+6,jszv8xq,Yeah. I haven't seen any mods active,2,2,2023-07-22 13:29:26 UTC,1,stxirs,156ioac,t1_jszumae,36,False,False,maldives
+7,jt3czn6,what if we made a new subreddit,2,2,2023-07-23 06:49:47 UTC,2,fen_thashi,156ioac,t1_jszumae,31,False,False,maldives
+8,jt10n2o,Damn that sucks,1,3,2023-07-22 18:36:04 UTC,0,pineapplethepotato,156ioac,t1_jszv8xq,15,False,False,maldives
+9,jt3oc1h,and call it what? New Maldives?,2,3,2023-07-23 09:20:05 UTC,1,th3bakari,156ioac,t1_jt3czn6,31,False,False,maldives
+10,jt4utst,Aneh Dhivehi Raahje,1,4,2023-07-23 15:57:21 UTC,0,Sharp_Status_589,156ioac,t1_jt3oc1h,19,False,False,maldives

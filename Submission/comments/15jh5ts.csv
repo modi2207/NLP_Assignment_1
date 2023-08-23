@@ -1,12 +1,12 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
 0,jv05rpu,"If you’re looking for a healthy option to do take away I love “Meer.food” their chicken fajita bowl is amazing but has hints of sweet and tangy as well so might not be for everyone’s palette. 
 
 For sushi Sushi Zu was an absolutely amazing one but the main chef changed I think so it wasn’t as good as before when we went last time. But the mango and coconut dessert they had was still very good. 
 
-Can’t think of more right now but will add if I remember anything else",3,0,2023-08-06 07:40:49 UTC,4,islandtravel,15jh5ts
+Can’t think of more right now but will add if I remember anything else",5,0,2023-08-06 07:40:49 UTC,4,islandtravel,15jh5ts,t3_15jh5ts,468,False,False,maldives
 1,juzxske,"Here are a few suggestions
 
-Seagull (Try the chicken soup), Family Room, Bakerloo, Red Snapper, High Tide, Patio.",2,0,2023-08-06 06:00:19 UTC,3,dhonayya20,15jh5ts
+Seagull (Try the chicken soup), Family Room, Bakerloo, Red Snapper, High Tide, Patio.",2,0,2023-08-06 06:00:19 UTC,3,dhonayya20,15jh5ts,t3_15jh5ts,113,False,False,maldives
 2,jv06dwj,"1. som tam Thai. Used to be previously called ""chim Thai "". Too as OP mentioned it is a owned by older Maldivian and Thai couple..I can second what OP says. Even the prices are reasonable. 
 
 
@@ -23,17 +23,17 @@ So why not just replace the cured meat with a halal beef based cured meat. Still
 
 But here mostly it's take aways the eggs. Adds cream/ milk, Bell pepper. Cheddar cheese. Cream cheese parsley leafs . It is all a mushy mess. 
 ....
-....",2,0,2023-08-06 07:48:57 UTC,0,bonbenzo,15jh5ts
-3,jv0p74u,Did you try Cibo?,2,0,2023-08-06 11:50:36 UTC,1,8ddh0o,15jh5ts
-4,jv2mc4b,Thyme.,2,0,2023-08-06 20:17:00 UTC,0,HussainShaafiu,15jh5ts
-5,jv0faes,I’m going to try some of these,1,0,2023-08-06 09:49:26 UTC,0,PossibilityPowerful,15jh5ts
-6,jv0nz0q,Rodchenko,1,0,2023-08-06 11:37:54 UTC,0,Bitter_Breakfast8621,15jh5ts
-7,jx65f12,Try out Riveli Beach Club & Restaurant in Hulhumale. It opened this week. Great food and unique ambience.,1,0,2023-08-21 19:08:56 UTC,0,Loading310,15jh5ts
-8,jv0dh2f,Meer.food on instagram. Personally I think they're the best food place in town.,2,1,2023-08-06 09:24:47 UTC,1,dhonayya20,15jh5ts
-9,jx8a61c,Thanks for your suggestions. Wife and I had a 3 course meal at Sushi Zu recently and their sushi was top notch.,2,1,2023-08-22 04:02:48 UTC,1,BudovicLagman,15jh5ts
-10,jv0d0od,"I went to Red Snapper once during a work outing, and they had run out of red snappers! Don't remember what I ended up ordering instead, but it was pretty good.",1,1,2023-08-06 09:18:34 UTC,0,BudovicLagman,15jh5ts
-11,jv09y04,Seagull and Family Room are great. Can you recommend a place for valhomas koththu or noodles? Basically anything valhomas.,1,1,2023-08-06 08:36:46 UTC,1,primary0,15jh5ts
-12,jv4s78o,"But their standards have dropped a bit since the pandemic, in my opinion.",2,1,2023-08-07 07:32:19 UTC,0,BudovicLagman,15jh5ts
-13,jv0dla0,Yeah but since they asked specifically about dining I didn’t talk about them much. If I’m doing take away that’s definitely my go to place.,2,2,2023-08-06 09:26:23 UTC,0,islandtravel,15jh5ts
-14,jx8g8pm,Glad you liked it. Oishii also opened their new place and I have heard good reviews but haven’t been there yet. Used to be the best sushi in town when they were in Hulhumale’ but quality went down a bit in their second place and need to try and see how it is now.,1,2,2023-08-22 05:05:19 UTC,0,islandtravel,15jh5ts
-15,jv0dmu4,Not a big fan of valhomas dishes so I'm afraid I cant help :(,1,2,2023-08-06 09:26:59 UTC,0,dhonayya20,15jh5ts
+....",2,0,2023-08-06 07:48:57 UTC,0,bonbenzo,15jh5ts,t3_15jh5ts,1135,False,False,maldives
+3,jv0p74u,Did you try Cibo?,2,0,2023-08-06 11:50:36 UTC,1,8ddh0o,15jh5ts,t3_15jh5ts,17,False,False,maldives
+4,jv2mc4b,Thyme.,2,0,2023-08-06 20:17:00 UTC,0,HussainShaafiu,15jh5ts,t3_15jh5ts,6,False,False,maldives
+5,jv0faes,I’m going to try some of these,1,0,2023-08-06 09:49:26 UTC,0,PossibilityPowerful,15jh5ts,t3_15jh5ts,30,False,False,maldives
+6,jv0nz0q,Rodchenko,1,0,2023-08-06 11:37:54 UTC,0,Bitter_Breakfast8621,15jh5ts,t3_15jh5ts,9,False,False,maldives
+7,jx65f12,Try out Riveli Beach Club & Restaurant in Hulhumale. It opened this week. Great food and unique ambience.,1,0,2023-08-21 19:08:56 UTC,0,Loading310,15jh5ts,t3_15jh5ts,105,False,False,maldives
+8,jv0dh2f,Meer.food on instagram. Personally I think they're the best food place in town.,2,1,2023-08-06 09:24:47 UTC,1,dhonayya20,15jh5ts,t1_jv05rpu,79,False,False,maldives
+9,jx8a61c,Thanks for your suggestions. Wife and I had a 3 course meal at Sushi Zu recently and their sushi was top notch.,2,1,2023-08-22 04:02:48 UTC,1,BudovicLagman,15jh5ts,t1_jv05rpu,111,False,True,maldives
+10,jv0d0od,"I went to Red Snapper once during a work outing, and they had run out of red snappers! Don't remember what I ended up ordering instead, but it was pretty good.",1,1,2023-08-06 09:18:34 UTC,0,BudovicLagman,15jh5ts,t1_juzxske,159,False,True,maldives
+11,jv09y04,Seagull and Family Room are great. Can you recommend a place for valhomas koththu or noodles? Basically anything valhomas.,1,1,2023-08-06 08:36:46 UTC,1,primary0,15jh5ts,t1_juzxske,122,False,False,maldives
+12,jv4s78o,"But their standards have dropped a bit since the pandemic, in my opinion.",2,1,2023-08-07 07:32:19 UTC,0,BudovicLagman,15jh5ts,t1_jv0p74u,73,False,True,maldives
+13,jv0dla0,Yeah but since they asked specifically about dining I didn’t talk about them much. If I’m doing take away that’s definitely my go to place.,2,2,2023-08-06 09:26:23 UTC,0,islandtravel,15jh5ts,t1_jv0dh2f,139,False,False,maldives
+14,jx8g8pm,Glad you liked it. Oishii also opened their new place and I have heard good reviews but haven’t been there yet. Used to be the best sushi in town when they were in Hulhumale’ but quality went down a bit in their second place and need to try and see how it is now.,1,2,2023-08-22 05:05:19 UTC,0,islandtravel,15jh5ts,t1_jx8a61c,263,False,False,maldives
+15,jv0dmu4,Not a big fan of valhomas dishes so I'm afraid I cant help :(,1,2,2023-08-06 09:26:59 UTC,0,dhonayya20,15jh5ts,t1_jv09y04,61,False,False,maldives

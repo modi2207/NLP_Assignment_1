@@ -1,4 +1,4 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,fhpr67q,Is this Meeru Resort ?,3,0,2020-02-15 19:14:04 UTC,1,If-i-feed-im-lagging,f4do3p
-1,fhs3g9m,Very nice! Might be going to the Maldives later in November - looking forward to it.,2,0,2020-02-16 11:18:47 UTC,0,chinmoylad,f4do3p
-2,fhps3hf,Yes,3,1,2020-02-15 19:19:07 UTC,0,TsubasaOkocha,f4do3p
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,fhpr67q,Is this Meeru Resort ?,3,0,2020-02-15 19:14:04 UTC,1,If-i-feed-im-lagging,f4do3p,t3_f4do3p,22,False,False,maldives
+1,fhs3g9m,Very nice! Might be going to the Maldives later in November - looking forward to it.,2,0,2020-02-16 11:18:47 UTC,0,chinmoylad,f4do3p,t3_f4do3p,84,False,False,maldives
+2,fhps3hf,Yes,3,1,2020-02-15 19:19:07 UTC,0,TsubasaOkocha,f4do3p,t1_fhpr67q,3,False,True,maldives

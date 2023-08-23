@@ -1,2 +1,2 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,d7d5vqc,"You should x-post this to /r/documentaries if you havent already, gain some traction from there as well.",1,0,2016-09-07 19:05:31 UTC,0,kudabe,51jxdz
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,d7d5vqc,"You should x-post this to /r/documentaries if you havent already, gain some traction from there as well.",1,0,2016-09-07 19:05:31 UTC,0,kudabe,51jxdz,t3_51jxdz,104,False,False,maldives

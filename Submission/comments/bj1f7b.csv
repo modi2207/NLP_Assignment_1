@@ -1,4 +1,4 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
 0,emgagp3,"OMG, that's a really cool photo!   
-(Not to mention the heavenly place, LOL!)",2,0,2019-05-04 00:30:20 UTC,1,ami-co,bj1f7b
-1,emh3a6o,Thanks! Heavenly is the word that comes closest :),2,1,2019-05-04 09:49:00 UTC,0,Mister20seven,bj1f7b
+(Not to mention the heavenly place, LOL!)",2,0,2019-05-04 00:30:20 UTC,1,ami-co,bj1f7b,t3_bj1f7b,77,False,False,maldives
+1,emh3a6o,Thanks! Heavenly is the word that comes closest :),2,1,2019-05-04 09:49:00 UTC,0,Mister20seven,bj1f7b,t1_emgagp3,50,False,True,maldives

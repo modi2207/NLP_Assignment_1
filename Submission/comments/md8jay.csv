@@ -1,3 +1,3 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,gs9j950,thanks for these! where can I find the rest?,2,0,2021-03-26 06:26:53 UTC,1,freshorang,md8jay
-1,gs9st86,"Hey! Sadly he doesn’t have anymore online, these were all scanned from book prints.",2,1,2021-03-26 08:58:10 UTC,0,sofierylala,md8jay
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,gs9j950,thanks for these! where can I find the rest?,2,0,2021-03-26 06:26:53 UTC,1,freshorang,md8jay,t3_md8jay,44,False,False,maldives
+1,gs9st86,"Hey! Sadly he doesn’t have anymore online, these were all scanned from book prints.",2,1,2021-03-26 08:58:10 UTC,0,sofierylala,md8jay,t1_gs9j950,83,False,True,maldives

@@ -1,5 +1,5 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,gtcx4w2,Which resrot is this?,2,0,2021-04-04 16:09:49 UTC,1,Prestigious-Dish268,mjwl9r
-1,gtcihd3,Wonderful,1,0,2021-04-04 13:57:27 UTC,0,Individual_Job5062,mjwl9r
-2,guctsoo,Beautiful View!!,1,0,2021-04-13 10:30:53 UTC,0,nathiyadlk,mjwl9r
-3,gtf8370,Tell us!,1,1,2021-04-05 04:58:16 UTC,0,jivin_jives,mjwl9r
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,gtcx4w2,Which resrot is this?,2,0,2021-04-04 16:09:49 UTC,1,Prestigious-Dish268,mjwl9r,t3_mjwl9r,21,False,False,maldives
+1,gtcihd3,Wonderful,1,0,2021-04-04 13:57:27 UTC,0,Individual_Job5062,mjwl9r,t3_mjwl9r,9,False,False,maldives
+2,guctsoo,Beautiful View!!,1,0,2021-04-13 10:30:53 UTC,0,nathiyadlk,mjwl9r,t3_mjwl9r,16,False,False,maldives
+3,gtf8370,Tell us!,1,1,2021-04-05 04:58:16 UTC,0,jivin_jives,mjwl9r,t1_gtcx4w2,8,False,False,maldives

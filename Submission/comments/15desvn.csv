@@ -1,8 +1,8 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
 0,ju1o7u4,"Here you go u/Funnybones92 , original [article](http://saruna.mnu.edu.mv/jspui/bitstream/123456789/4407/1/G.dh%20Fiyoaree%20Hassanmaaraadhakaleyge%20faanaai%20Beefaanuge%20hauolhu.pdf) from saruna. If saruna doesn't load well, try to search the article from [majalla.mv](https://majalla.mv/). There's faithoora articles there.
 
 ---
 
 ## Personal Anecdote
 
-I heard the first part of the story from my grandfather.  I used to like horror movies and morbid stuff, so always asked him to tell creepy stories. Never liked the non-creepy ones until now.",3,0,2023-07-30 07:14:10 UTC,0,z80lives,15desvn
+I heard the first part of the story from my grandfather.  I used to like horror movies and morbid stuff, so always asked him to tell creepy stories. Never liked the non-creepy ones until now.",3,0,2023-07-30 07:14:10 UTC,0,z80lives,15desvn,t3_15desvn,546,False,True,maldives

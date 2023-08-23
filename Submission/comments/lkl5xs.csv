@@ -1,6 +1,6 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,gnltfst,[deleted],4,0,2021-02-16 03:00:30 UTC,2,,lkl5xs
-1,gnkd7ld,Lagoon SummerIsland,3,0,2021-02-15 19:38:20 UTC,0,ZahirIbrahimZahir,lkl5xs
-2,gnnkojc,Baby shark do doo do do,2,0,2021-02-16 15:28:49 UTC,0,h4f1z-nfs,lkl5xs
-3,gnlu7in,"Only baby sharks enter the lagoon shallows. Even otherwise, we Maldivian don’t know sharks like movie Jaws have us believe. They’re docile and only mind their own business. The only time we hate them is when they bite off a half of the fish we caught on a drop line, while being pulled out of the water hehe",9,1,2021-02-16 03:07:27 UTC,1,ZahirIbrahimZahir,lkl5xs
-4,gnmsa7z,True.,2,2,2021-02-16 10:10:16 UTC,0,00YOMAN,lkl5xs
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,gnltfst,[deleted],3,0,2021-02-16 03:00:30 UTC,2,,lkl5xs,t3_lkl5xs,9,False,False,maldives
+1,gnkd7ld,Lagoon SummerIsland,3,0,2021-02-15 19:38:20 UTC,0,ZahirIbrahimZahir,lkl5xs,t3_lkl5xs,19,False,True,maldives
+2,gnnkojc,Baby shark do doo do do,2,0,2021-02-16 15:28:49 UTC,0,h4f1z-nfs,lkl5xs,t3_lkl5xs,23,False,False,maldives
+3,gnlu7in,"Only baby sharks enter the lagoon shallows. Even otherwise, we Maldivian don’t know sharks like movie Jaws have us believe. They’re docile and only mind their own business. The only time we hate them is when they bite off a half of the fish we caught on a drop line, while being pulled out of the water hehe",9,1,2021-02-16 03:07:27 UTC,1,ZahirIbrahimZahir,lkl5xs,t1_gnltfst,307,False,True,maldives
+4,gnmsa7z,True.,2,2,2021-02-16 10:10:16 UTC,0,00YOMAN,lkl5xs,t1_gnlu7in,5,False,False,maldives

@@ -1,5 +1,5 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,gsb482z,Oh hey. I worked there for 2 years. Let me know if you need any suggestions.,4,0,2021-03-26 16:38:06 UTC,2,Voidvicer,mdpwen
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,gsb482z,Oh hey. I worked there for 2 years. Let me know if you need any suggestions.,5,0,2021-03-26 16:38:06 UTC,2,Voidvicer,mdpwen,t3_mdpwen,76,False,False,maldives
 1,gsrhree,"Lucky you, this place is truly amazing!
-Thanks for reaching out, we are having a blast",2,1,2021-03-30 03:21:22 UTC,1,chefvegas,mdpwen
-2,gss0wlk,That's great to know. Glad you're enjoying yourselves.,1,2,2021-03-30 07:33:22 UTC,0,Voidvicer,mdpwen
+Thanks for reaching out, we are having a blast",2,1,2021-03-30 03:21:22 UTC,1,chefvegas,mdpwen,t1_gsb482z,86,False,True,maldives
+2,gss0wlk,That's great to know. Glad you're enjoying yourselves.,1,2,2021-03-30 07:33:22 UTC,0,Voidvicer,mdpwen,t1_gsrhree,54,False,False,maldives

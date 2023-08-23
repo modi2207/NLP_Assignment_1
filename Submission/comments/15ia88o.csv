@@ -1,12 +1,12 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
 0,juvckr8,"Moar cats! Then I can convince my oh to visit!
 
-Incidentally, is there a support organisation for the strays there or are the community cats similar to Turkiye?",4,0,2023-08-05 07:39:26 UTC,1,IdeletedTheTiramisu,15ia88o
-1,jut3940,Who’s this? 😍,1,0,2023-08-04 20:15:44 UTC,6,primary0,15ia88o
-2,juvcs30,There are tons of cats here. I don't know exactly the situation here but I know that there are people that have taken their own initiative to feed the cats here,1,1,2023-08-05 07:41:58 UTC,0,burgerman000,15ia88o
-3,jut4fpw,this is a kitty  I named Squid that hangs out near my place,3,1,2023-08-04 20:23:15 UTC,5,burgerman000,15ia88o
-4,juvd19c,squid is gorgeous,2,2,2023-08-05 07:45:11 UTC,4,antheiakasra,15ia88o
-5,juvd4b8,he really is! he loves to follow me around and jump on the bikes. Definitely a Male' Bulhaa,1,3,2023-08-05 07:46:16 UTC,3,burgerman000,15ia88o
-6,juwhkgl,Imma eat squid,0,4,2023-08-05 14:31:41 UTC,2,Major_Tomatillo_6036,15ia88o
-7,juwmchd,eat garudhiya instead,1,5,2023-08-05 15:05:09 UTC,1,burgerman000,15ia88o
-8,juwmn6g,I eat that everyday. Today I'm eating squid,0,6,2023-08-05 15:07:11 UTC,0,Major_Tomatillo_6036,15ia88o
+Incidentally, is there a support organisation for the strays there or are the community cats similar to Turkiye?",4,0,2023-08-05 07:39:26 UTC,1,IdeletedTheTiramisu,15ia88o,t3_15ia88o,160,False,False,maldives
+1,jut3940,Who’s this? 😍,1,0,2023-08-04 20:15:44 UTC,6,primary0,15ia88o,t3_15ia88o,13,False,False,maldives
+2,juvcs30,There are tons of cats here. I don't know exactly the situation here but I know that there are people that have taken their own initiative to feed the cats here,1,1,2023-08-05 07:41:58 UTC,0,burgerman000,15ia88o,t1_juvckr8,160,False,True,maldives
+3,jut4fpw,this is a kitty  I named Squid that hangs out near my place,3,1,2023-08-04 20:23:15 UTC,5,burgerman000,15ia88o,t1_jut3940,59,False,True,maldives
+4,juvd19c,squid is gorgeous,2,2,2023-08-05 07:45:11 UTC,4,antheiakasra,15ia88o,t1_jut4fpw,17,False,False,maldives
+5,juvd4b8,he really is! he loves to follow me around and jump on the bikes. Definitely a Male' Bulhaa,1,3,2023-08-05 07:46:16 UTC,3,burgerman000,15ia88o,t1_juvd19c,91,False,True,maldives
+6,juwhkgl,Imma eat squid,0,4,2023-08-05 14:31:41 UTC,2,Major_Tomatillo_6036,15ia88o,t1_juvd4b8,14,False,False,maldives
+7,juwmchd,eat garudhiya instead,1,5,2023-08-05 15:05:09 UTC,1,burgerman000,15ia88o,t1_juwhkgl,21,False,True,maldives
+8,juwmn6g,I eat that everyday. Today I'm eating squid,0,6,2023-08-05 15:07:11 UTC,0,Major_Tomatillo_6036,15ia88o,t1_juwmchd,43,False,False,maldives

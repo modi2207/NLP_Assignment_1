@@ -1,7 +1,7 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,fxwqljk,As a Maldivian .I would say now is not a safe time to come to Maldives. Corona virus is spreading. Cases are increasing day by day.,7,0,2020-07-13 07:35:01 UTC,1,shitbagzzzzzz,hq66ym
-1,fxvzylw,Stunning. Where is that. Looks incredible,3,0,2020-07-13 01:56:27 UTC,2,Craiggem,hq66ym
-2,fxwhlyo,Few more days mate!,1,0,2020-07-13 05:19:36 UTC,0,,hq66ym
-3,g03xyld,Resorts are safe!,1,1,2020-08-02 15:30:36 UTC,0,Craiggem,hq66ym
-4,fxw0say,Soneva Fushi!,3,1,2020-07-13 02:05:02 UTC,1,JerseyGuyonReddit,hq66ym
-5,fxwwor0,Dude how much did that cost?,1,2,2020-07-13 09:19:16 UTC,0,bwakh,hq66ym
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,fxwqljk,As a Maldivian .I would say now is not a safe time to come to Maldives. Corona virus is spreading. Cases are increasing day by day.,8,0,2020-07-13 07:35:01 UTC,1,shitbagzzzzzz,hq66ym,t3_hq66ym,131,False,False,maldives
+1,fxvzylw,Stunning. Where is that. Looks incredible,3,0,2020-07-13 01:56:27 UTC,2,Craiggem,hq66ym,t3_hq66ym,41,False,False,maldives
+2,fxwhlyo,Few more days mate!,1,0,2020-07-13 05:19:36 UTC,0,,hq66ym,t3_hq66ym,19,False,False,maldives
+3,g03xyld,Resorts are safe!,1,1,2020-08-02 15:30:36 UTC,0,Craiggem,hq66ym,t1_fxwqljk,17,False,False,maldives
+4,fxw0say,Soneva Fushi!,3,1,2020-07-13 02:05:02 UTC,1,JerseyGuyonReddit,hq66ym,t1_fxvzylw,13,False,True,maldives
+5,fxwwor0,Dude how much did that cost?,1,2,2020-07-13 09:19:16 UTC,0,bwakh,hq66ym,t1_fxw0say,28,False,False,maldives

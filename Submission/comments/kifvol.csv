@@ -1,30 +1,30 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,ggqwtp0,Is there a good time of year to try to see this??,2,0,2020-12-23 00:25:19 UTC,1,findmepoints,kifvol
-1,ggts8mg,Beautiful- good photo too :),2,0,2020-12-23 19:53:13 UTC,0,CatKungFu,kifvol
-2,ggzpmt5,"Good photo, But it's common in the islands",2,0,2020-12-25 15:08:11 UTC,2,Queasy-Photograph930,kifvol
-3,gh1oph4,r/natureisfuckinglit,2,0,2020-12-26 04:19:19 UTC,0,Gammont360,kifvol
-4,gh3ab0b,Wow! How do you get to Vaadhoo from the Valena International Airport?,2,0,2020-12-26 18:28:52 UTC,3,_PurpleJellyfish_,kifvol
-5,goorfpn,Hulhamaleygatha?,2,0,2021-02-25 09:08:30 UTC,0,KaylaInANushell,kifvol
-6,ggryngb,"""rare"" You always see them out in the ocean early in the morning or midnight.",1,0,2020-12-23 06:55:14 UTC,2,Sipooty24,kifvol
-7,gj06y1z,I was there when it happened,1,0,2021-01-12 15:02:32 UTC,0,Ree1831,kifvol
-8,glu8zh4,Soo nice and majestic,1,0,2021-02-03 08:07:37 UTC,1,AKUMAL-22,kifvol
-9,hnpgaia,thats not plankstons thats led juice,1,0,2021-12-08 11:39:23 UTC,0,0_oLuth,kifvol
-10,i7pyxqh,Bioluminescence 😍,1,0,2022-05-07 21:00:28 UTC,0,AhsanxShaheen,kifvol
-11,ggqwxax,"Yes, this is the season in Maldives. you can see it from most of the islands",3,1,2020-12-23 00:26:16 UTC,0,200BOTyt,kifvol
-12,gh3auo8,Yes it is 🙏🏻,1,1,2020-12-26 18:33:56 UTC,0,200BOTyt,kifvol
-13,gjjop3e,"I did not see any of this, just got back from the Maldives.",1,1,2021-01-17 05:01:17 UTC,0,Inzpire,kifvol
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,ggqwtp0,Is there a good time of year to try to see this??,2,0,2020-12-23 00:25:19 UTC,1,findmepoints,kifvol,t3_kifvol,49,False,False,maldives
+1,ggts8mg,Beautiful- good photo too :),2,0,2020-12-23 19:53:13 UTC,0,CatKungFu,kifvol,t3_kifvol,28,False,False,maldives
+2,ggzpmt5,"Good photo, But it's common in the islands",2,0,2020-12-25 15:08:11 UTC,2,Queasy-Photograph930,kifvol,t3_kifvol,42,False,False,maldives
+3,gh1oph4,r/natureisfuckinglit,2,0,2020-12-26 04:19:19 UTC,0,Gammont360,kifvol,t3_kifvol,20,False,False,maldives
+4,gh3ab0b,Wow! How do you get to Vaadhoo from the Valena International Airport?,2,0,2020-12-26 18:28:52 UTC,3,_PurpleJellyfish_,kifvol,t3_kifvol,69,False,False,maldives
+5,goorfpn,Hulhamaleygatha?,2,0,2021-02-25 09:08:30 UTC,0,KaylaInANushell,kifvol,t3_kifvol,16,False,False,maldives
+6,ggryngb,"""rare"" You always see them out in the ocean early in the morning or midnight.",1,0,2020-12-23 06:55:14 UTC,2,Sipooty24,kifvol,t3_kifvol,77,False,False,maldives
+7,gj06y1z,I was there when it happened,1,0,2021-01-12 15:02:32 UTC,0,Ree1831,kifvol,t3_kifvol,28,False,False,maldives
+8,glu8zh4,Soo nice and majestic,1,0,2021-02-03 08:07:37 UTC,1,AKUMAL-22,kifvol,t3_kifvol,21,False,False,maldives
+9,hnpgaia,thats not plankstons thats led juice,1,0,2021-12-08 11:39:23 UTC,0,0_oLuth,kifvol,t3_kifvol,36,False,False,maldives
+10,i7pyxqh,Bioluminescence 😍,1,0,2022-05-07 21:00:28 UTC,0,AhsanxShaheen,kifvol,t3_kifvol,17,False,False,maldives
+11,ggqwxax,"Yes, this is the season in Maldives. you can see it from most of the islands",3,1,2020-12-23 00:26:16 UTC,0,200BOTyt,kifvol,t1_ggqwtp0,76,False,True,maldives
+12,gh3auo8,Yes it is 🙏🏻,1,1,2020-12-26 18:33:56 UTC,0,200BOTyt,kifvol,t1_ggzpmt5,12,False,True,maldives
+13,gjjop3e,"I did not see any of this, just got back from the Maldives.",1,1,2021-01-17 05:01:17 UTC,0,Inzpire,kifvol,t1_ggzpmt5,59,False,False,maldives
 14,gh3anup,"You can take a speed boat from male’. Be in touch with a travel agent or a tour operator.
-This is not only at vaadhoo, its a seasonal thing and if you are lucky enough you will be able to se it from most of the islands in Maldives.",1,1,2020-12-26 18:32:10 UTC,2,200BOTyt,kifvol
-15,gh21qzt,No your wrong not always,2,1,2020-12-26 07:35:31 UTC,1,BananaSmoothieButt,kifvol
-16,glubg80,Indeed,1,1,2021-02-03 08:44:00 UTC,0,Showeryjoker,kifvol
+This is not only at vaadhoo, its a seasonal thing and if you are lucky enough you will be able to se it from most of the islands in Maldives.",1,1,2020-12-26 18:32:10 UTC,2,200BOTyt,kifvol,t1_gh3ab0b,231,False,True,maldives
+15,gh21qzt,No your wrong not always,2,1,2020-12-26 07:35:31 UTC,1,BananaSmoothieButt,kifvol,t1_ggryngb,24,False,False,maldives
+16,glubg80,Indeed,1,1,2021-02-03 08:44:00 UTC,0,Showeryjoker,kifvol,t1_glu8zh4,6,False,False,maldives
 17,gh3gvq0,"Oh, okay! I have few more questions:
 
 1. Aren't ferry/speed boat services available only during day time? Can I visit this place at night and return on the same day without having to stay in that island?
 2. Actually I found atleast 3 places named Vaadhoo (it has confused me), which one are you talking about?
 3. Which other islands can we see this bioluminescent phytoplankton?
 
-Thanks!",1,2,2020-12-26 19:28:57 UTC,1,_PurpleJellyfish_,kifvol
-18,gh3aw95,True that,1,2,2020-12-26 18:34:20 UTC,0,200BOTyt,kifvol
+Thanks!",1,2,2020-12-26 19:28:57 UTC,1,_PurpleJellyfish_,kifvol,t1_gh3anup,387,False,False,maldives
+18,gh3aw95,True that,1,2,2020-12-26 18:34:20 UTC,0,200BOTyt,kifvol,t1_gh21qzt,9,False,True,maldives
 19,j3fx0ug,"I just got back from the Maldives and saw the bioluminescent plankton. Very very cool! The locals said it isn’t a very common experience.
 
-As for using the seaplane, you’re right that they don’t fly at night, so you either have to be gone on the last flight of the day, which is around 3:30pm, or you have to stay til the next day.",2,3,2023-01-08 07:14:45 UTC,0,Hip_Girl,kifvol
+As for using the seaplane, you’re right that they don’t fly at night, so you either have to be gone on the last flight of the day, which is around 3:30pm, or you have to stay til the next day.",2,3,2023-01-08 07:14:45 UTC,0,Hip_Girl,kifvol,t1_gh3gvq0,331,False,False,maldives

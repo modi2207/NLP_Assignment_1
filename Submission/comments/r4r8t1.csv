@@ -1,52 +1,52 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
 0,hmiijwh,"A couple questions:
 
 1. How much would (approximately) the ""unlimited data"" SIM cost in Male airport?
-2. What is a ""good tip"" for hotel staff, to get on their better side :) ?",4,0,2021-11-29 09:35:37 UTC,5,ozyri,r4r8t1
-1,hmihjyx,Do you have any advise about the new travel restrictions due to the new variant. I’m traveling from India to male,2,0,2021-11-29 09:21:01 UTC,4,Boinga5689,r4r8t1
-2,hmiw6i2,"We want USD to tip the waiter at the resort, is it possible to get it at the airport or should we get it before?",2,0,2021-11-29 12:34:11 UTC,1,scarface02x,r4r8t1
+2. What is a ""good tip"" for hotel staff, to get on their better side :) ?",4,0,2021-11-29 09:35:37 UTC,5,ozyri,r4r8t1,t3_r4r8t1,175,False,False,maldives
+1,hmihjyx,Do you have any advise about the new travel restrictions due to the new variant. I’m traveling from India to male,2,0,2021-11-29 09:21:01 UTC,4,Boinga5689,r4r8t1,t3_r4r8t1,113,False,False,maldives
+2,hmiw6i2,"We want USD to tip the waiter at the resort, is it possible to get it at the airport or should we get it before?",2,0,2021-11-29 12:34:11 UTC,1,scarface02x,r4r8t1,t3_r4r8t1,112,False,False,maldives
 3,hqwufmf,"Hi Faru,
 
  Probably overthinking this, but what is accepted as booking confirmation for the accomodation/resort at Border Control?
 
 We have an itinerary outlining dates of our stay and an email from the resort confirming that they're expecting us. Does this suffice or is a formal confirmation from our travel agent required? It is a bank holiday in the UK tomorrow and the travel agent will reopen after our arrival.
 
-Thank you",2,0,2022-01-02 07:52:24 UTC,1,Blocoholi,r4r8t1
-4,hmipcgy,"Thanks for this post! Do people wear masks on the local islands like Maafushi? Especially with the new variant being more transmissible. If we test positive before leaving Maldives, is it a mandatory 14 day quarantine at the hotel? And finally how much is the PCR cost if we are staying at Maafushi?",1,0,2021-11-29 11:11:33 UTC,2,kangf,r4r8t1
-5,hmitn6w,How hard is it to get hashish around the resorts?,1,0,2021-11-29 12:05:33 UTC,4,Moz3011,r4r8t1
-6,hmjl2tw,Are you allowed to visit local islands now? When we were there back in April it was *strictly* prohibited.,1,0,2021-11-29 16:04:05 UTC,2,Leodw45,r4r8t1
+Thank you",2,0,2022-01-02 07:52:24 UTC,1,Blocoholi,r4r8t1,t3_r4r8t1,428,False,False,maldives
+4,hmipcgy,"Thanks for this post! Do people wear masks on the local islands like Maafushi? Especially with the new variant being more transmissible. If we test positive before leaving Maldives, is it a mandatory 14 day quarantine at the hotel? And finally how much is the PCR cost if we are staying at Maafushi?",1,0,2021-11-29 11:11:33 UTC,2,kangf,r4r8t1,t3_r4r8t1,299,False,False,maldives
+5,hmitn6w,How hard is it to get hashish around the resorts?,1,0,2021-11-29 12:05:33 UTC,4,Moz3011,r4r8t1,t3_r4r8t1,49,False,False,maldives
+6,hmjl2tw,Are you allowed to visit local islands now? When we were there back in April it was *strictly* prohibited.,1,0,2021-11-29 16:04:05 UTC,2,Leodw45,r4r8t1,t3_r4r8t1,106,False,False,maldives
 7,hmk6p5b,"Where are you getting the 72 hour info from? Both the official website and our resort say 96 hours:
 
-""The sample for the said test must be taken not more than 96 hours prior to the scheduled time of departure from the first port of embarkation en route to the Maldives.""",1,0,2021-11-29 18:30:07 UTC,3,flutterfly28,r4r8t1
-8,hmka1d6,Thank you for this post. It'll be VERY helpful!,1,0,2021-11-29 18:52:20 UTC,0,stryker213,r4r8t1
-9,hml4lo7,I'm flying in a few weeks. Worried as the weather says cloudy. I was told the weather is pristine in December! Ergh I should have done more research,1,0,2021-11-29 22:17:10 UTC,2,Spicy_McJoJo,r4r8t1
+""The sample for the said test must be taken not more than 96 hours prior to the scheduled time of departure from the first port of embarkation en route to the Maldives.""",1,0,2021-11-29 18:30:07 UTC,3,flutterfly28,r4r8t1,t3_r4r8t1,270,False,False,maldives
+8,hmka1d6,Thank you for this post. It'll be VERY helpful!,1,0,2021-11-29 18:52:20 UTC,0,stryker213,r4r8t1,t3_r4r8t1,47,False,False,maldives
+9,hml4lo7,I'm flying in a few weeks. Worried as the weather says cloudy. I was told the weather is pristine in December! Ergh I should have done more research,1,0,2021-11-29 22:17:10 UTC,2,Spicy_McJoJo,r4r8t1,t3_r4r8t1,148,False,False,maldives
 10,hmrs1hc,"Really good post, Faru! I didn't know about the 72 hours PCR at departure, I only thought it was a requirement at arrival.
-We are staying in Malé for 1 night before flying back to Denmark - do you know where we can do a PCR test, which is cheap in Malé? The resort charge 130 USD per person, which I think is outrageous, as it should be free from the government..",1,0,2021-12-01 07:33:04 UTC,4,TheBurningDude123,r4r8t1
+We are staying in Malé for 1 night before flying back to Denmark - do you know where we can do a PCR test, which is cheap in Malé? The resort charge 130 USD per person, which I think is outrageous, as it should be free from the government..",1,0,2021-12-01 07:33:04 UTC,4,TheBurningDude123,r4r8t1,t3_r4r8t1,363,False,False,maldives
 11,hnmy66o,"Thanks alot for the info @frhnwunderkid !
 
-Question (sorry if i sound a lil desperate): what are my chances in finding discounts or offers from hotels? Whats the best time to visit Maldives ? I really want to take my wife out there after marriage but limited by budget. Would appreciate any info you can throw my way 🙂",1,0,2021-12-07 20:53:17 UTC,2,omer_arshad,r4r8t1
-12,hnwrmay,So I got my Covid test yesterday but it was a TMA and not PCR which I didn’t realize. Is this acceptable?,1,0,2021-12-09 22:27:23 UTC,0,AK-11,r4r8t1
-13,hnzpqrw,Have a question about the PCR test - is a saliva PCR test allowed? Thanks!,1,0,2021-12-10 14:45:54 UTC,0,mochicken,r4r8t1
-14,ho4desq,Is there a travel season or time of year you recommend?,1,0,2021-12-11 13:59:25 UTC,4,ichosethisasmyname,r4r8t1
-15,hormukc,Is diazepam illegal? Take it bc I don’t love to fly. Helps with jitters.,1,0,2021-12-16 11:10:36 UTC,1,LegalFollowing9053,r4r8t1
-16,i0q3va9,I am about to move to the Maldives for work. Is a DBS check good enough for the visa or do I require a full police report?,1,0,2022-03-15 07:59:17 UTC,2,starlinkNFT,r4r8t1
-17,i5acuj2,Is it a bad idea to come in late May early June?,1,0,2022-04-19 01:48:27 UTC,0,Late-Climate-5285,r4r8t1
-18,ik4pjzg,How's the August weather been?,1,0,2022-08-13 14:17:48 UTC,0,clamchowderz,r4r8t1
+Question (sorry if i sound a lil desperate): what are my chances in finding discounts or offers from hotels? Whats the best time to visit Maldives ? I really want to take my wife out there after marriage but limited by budget. Would appreciate any info you can throw my way 🙂",1,0,2021-12-07 20:53:17 UTC,2,omer_arshad,r4r8t1,t3_r4r8t1,318,False,False,maldives
+12,hnwrmay,So I got my Covid test yesterday but it was a TMA and not PCR which I didn’t realize. Is this acceptable?,1,0,2021-12-09 22:27:23 UTC,0,AK-11,r4r8t1,t3_r4r8t1,105,False,False,maldives
+13,hnzpqrw,Have a question about the PCR test - is a saliva PCR test allowed? Thanks!,1,0,2021-12-10 14:45:54 UTC,0,mochicken,r4r8t1,t3_r4r8t1,74,False,False,maldives
+14,ho4desq,Is there a travel season or time of year you recommend?,1,0,2021-12-11 13:59:25 UTC,4,ichosethisasmyname,r4r8t1,t3_r4r8t1,55,1639231567.0,False,maldives
+15,hormukc,Is diazepam illegal? Take it bc I don’t love to fly. Helps with jitters.,1,0,2021-12-16 11:10:36 UTC,1,LegalFollowing9053,r4r8t1,t3_r4r8t1,72,False,False,maldives
+16,i0q3va9,I am about to move to the Maldives for work. Is a DBS check good enough for the visa or do I require a full police report?,1,0,2022-03-15 07:59:17 UTC,2,starlinkNFT,r4r8t1,t3_r4r8t1,122,False,False,maldives
+17,i5acuj2,Is it a bad idea to come in late May early June?,1,0,2022-04-19 01:48:27 UTC,0,Late-Climate-5285,r4r8t1,t3_r4r8t1,48,False,False,maldives
+18,ik4pjzg,How's the August weather been?,1,0,2022-08-13 14:17:48 UTC,0,clamchowderz,r4r8t1,t3_r4r8t1,30,False,False,maldives
 19,hmijl0n,"Excellent question.   
 
 
 A lot of packages have unlimited. I unfortunately cannot advise you on the cost for GB but the speed and bandwidth have no problem. I use a monthly paid plan for my use, I think the tourist packages would be different.   
 
 
-Hotel staff are generally individuals so, basic human psychology works. My favorite guests are the ones who ask me about my day, my life and get to know me a bit. My least favourite guests are ones who just see me as someone to ask for services.",5,1,2021-11-29 09:50:42 UTC,4,,r4r8t1
-20,hmik42e,"No official rules yet regarding India to Maldives. It's very important to check the individual guidelines for each country. Also airlines would have more information regarding this. Generally, if you can FLY into Maldives, you can stay at a tourist establishment.",1,1,2021-11-29 09:58:29 UTC,3,,r4r8t1
-21,hmj1crn,"You can only withdraw MVR in most ATMs, AFAIK. But there is a currency exchange in the airport so shouldn't be too difficult.",1,1,2021-11-29 13:26:14 UTC,0,,r4r8t1
-22,hr0yq8m,"If you have a confirmed reservation at a hotel, then you will get a visa. It's pretty simple - a booking dot com reservation paper or agoda or any of the websites are fine too. Even an agent issued letter or hotel issued confirmation is okay. What they look for is the hotel's (can be multiple hotels) details on the paper and whether the dates match your arrival and departures.",2,1,2022-01-03 03:25:22 UTC,0,,r4r8t1
+Hotel staff are generally individuals so, basic human psychology works. My favorite guests are the ones who ask me about my day, my life and get to know me a bit. My least favourite guests are ones who just see me as someone to ask for services.",4,1,2021-11-29 09:50:42 UTC,4,,r4r8t1,t1_hmiijwh,494,False,False,maldives
+20,hmik42e,"No official rules yet regarding India to Maldives. It's very important to check the individual guidelines for each country. Also airlines would have more information regarding this. Generally, if you can FLY into Maldives, you can stay at a tourist establishment.",1,1,2021-11-29 09:58:29 UTC,3,,r4r8t1,t1_hmihjyx,263,False,False,maldives
+21,hmj1crn,"You can only withdraw MVR in most ATMs, AFAIK. But there is a currency exchange in the airport so shouldn't be too difficult.",1,1,2021-11-29 13:26:14 UTC,0,,r4r8t1,t1_hmiw6i2,125,False,False,maldives
+22,hr0yq8m,"If you have a confirmed reservation at a hotel, then you will get a visa. It's pretty simple - a booking dot com reservation paper or agoda or any of the websites are fine too. Even an agent issued letter or hotel issued confirmation is okay. What they look for is the hotel's (can be multiple hotels) details on the paper and whether the dates match your arrival and departures.",2,1,2022-01-03 03:25:22 UTC,0,,r4r8t1,t1_hqwufmf,379,False,False,maldives
 23,hmiuicx,"People are advised to wear masks but it's not strictly enforced by law, I'd still advise you to wear a mask. 
 As per the law yes, if you are positive for covid when you test during your stay, you have to be in a 14 day quarantine, at a government designated quarantine hotel. I've heard mixed thoughts about such places.
-The PCR as of now costs anywhere from 50 - 60USD.",1,1,2021-11-29 12:15:38 UTC,1,,r4r8t1
+The PCR as of now costs anywhere from 50 - 60USD.",1,1,2021-11-29 12:15:38 UTC,1,,r4r8t1,t1_hmipcgy,370,False,False,maldives
 24,hmitu7d,"Not impossible.
-Highly unlikely tho.",2,1,2021-11-29 12:07:48 UTC,3,,r4r8t1
+Highly unlikely tho.",2,1,2021-11-29 12:07:48 UTC,3,,r4r8t1,t1_hmitn6w,36,False,False,maldives
 25,hmmal5b,"Mostly yes!   
 
 
@@ -56,7 +56,7 @@ Rarely, if an island is under monitoring status, then no. Monitoring means the i
 Most islands are covid free and if the island has an outbreak, it's best to change your booking to another island anyway - if your booking is refundable.   
 
 
-Most booking websites have a new Force Majeure policy that allows you to claim a refund if it's not possible to visit or stay due to COVID related reasons.",1,1,2021-11-30 03:30:18 UTC,0,,r4r8t1
+Most booking websites have a new Force Majeure policy that allows you to claim a refund if it's not possible to visit or stay due to COVID related reasons.",1,1,2021-11-30 03:30:18 UTC,0,,r4r8t1,t1_hmjl2tw,475,False,False,maldives
 26,hmjl47k,"Art thee did allow to visit local islands anon? at which hour we wast thither back in april t wast *strictly* did prohibit
 
 ***
@@ -65,16 +65,16 @@ Most booking websites have a new Force Majeure policy that allows you to claim a
 
 ^(I am a bot and I swapp'd some of thy words with Shakespeare words.)
 
-Commands: `!ShakespeareInsult`, `!fordo`, `!optout`",1,1,2021-11-29 16:04:22 UTC,0,Shakespeare-Bot,r4r8t1
+Commands: `!ShakespeareInsult`, `!fordo`, `!optout`",1,1,2021-11-29 16:04:22 UTC,0,Shakespeare-Bot,r4r8t1,t1_hmjl2tw,253,False,False,maldives
 27,hml5p6o,"I'm departing to Maldives on Monday and would like to know the answer for this also - travel agent mention 72 hours, but Maldives website mentions 96, which is it?  
 
 
-**Mentioned here:** https://imuga.immigration.gov.mv/ethd/create",2,1,2021-11-29 22:24:53 UTC,2,gee85,r4r8t1
+**Mentioned here:** https://imuga.immigration.gov.mv/ethd/create",2,1,2021-11-29 22:24:53 UTC,2,gee85,r4r8t1,t1_hmk6p5b,232,False,False,maldives
 28,hmmc02n,"Well, I don't think the weather patterns are actually predictable anymore. I think the climate HAS changed.   
 
 
-When I was in high school, every year around April/May it would rain. I remember it vividly cause I'd be studying for mid year exams around that time. Recently, it's not like that. It's hard to say when the seasons change. We generally have two seasons, namely Hulhan'gu and Iruvai which roughly translates to wet and dry.",1,1,2021-11-30 03:41:16 UTC,0,,r4r8t1
-29,hnapas8,It is not as it is shown in the google weather. I am here from 2nd Dec and the weather is sunny and bright. One time it rained for sometime then gone back to nomal good weather. Just come and you will have very good time!,1,1,2021-12-05 06:47:46 UTC,0,SkyAtLarge,r4r8t1
+When I was in high school, every year around April/May it would rain. I remember it vividly cause I'd be studying for mid year exams around that time. Recently, it's not like that. It's hard to say when the seasons change. We generally have two seasons, namely Hulhan'gu and Iruvai which roughly translates to wet and dry.",1,1,2021-11-30 03:41:16 UTC,0,,r4r8t1,t1_hml4lo7,435,False,False,maldives
+29,hnapas8,It is not as it is shown in the google weather. I am here from 2nd Dec and the weather is sunny and bright. One time it rained for sometime then gone back to nomal good weather. Just come and you will have very good time!,1,1,2021-12-05 06:47:46 UTC,0,SkyAtLarge,r4r8t1,t1_hml4lo7,221,False,False,maldives
 30,hmry81u,"I do agree that is an outrageous price! Well, it is free for citizens of Maldives by the government but just by the sheer volume of tests that need to be done for tourists it has created a demand for private labs to start covid testing, so now the tourists get only the private labs covid testing, and I hear there is a lot of costs involved in this (the testing machine, the transferring of samples)   
 
 
@@ -84,39 +84,39 @@ Maafushi is a local island quite close to Male' and still it's 50 USD here, whic
 Yes, you can give a call to Treetop Hospital at Hulhumale, or ADK Hospital in Male' however it would not be free. But definitely not 130!!   
 
 
-Also the 72hr PCR rule only applies if you stayed at a local inhabited island such as Guraidhoo, Gulhi, Thulusdhoo, Thinadhoo, Maafushi, Ukulhas so on so forth but not if you have stayed at a private island resort. So if you're staying in Male for 1 night it breaks this rule - you can check with your hotel in Male' for more detailed particular information.",1,1,2021-12-01 08:55:05 UTC,3,,r4r8t1
-31,hq147sc,We just got back - we found a crazy good deal through TravelZoo.,2,1,2021-12-26 15:07:11 UTC,0,TattooedTeacher316,r4r8t1
+Also the 72hr PCR rule only applies if you stayed at a local inhabited island such as Guraidhoo, Gulhi, Thulusdhoo, Thinadhoo, Maafushi, Ukulhas so on so forth but not if you have stayed at a private island resort. So if you're staying in Male for 1 night it breaks this rule - you can check with your hotel in Male' for more detailed particular information.",1,1,2021-12-01 08:55:05 UTC,3,,r4r8t1,t1_hmrs1hc,1104,False,False,maldives
+31,hq147sc,We just got back - we found a crazy good deal through TravelZoo.,2,1,2021-12-26 15:07:11 UTC,0,TattooedTeacher316,r4r8t1,t1_hnmy66o,64,False,False,maldives
 32,hr0zdz1,"Find a hotel you like online, (don't stay in Male' though I really don't think you'll have a good time staying in Male')   
-Write directly to the hotel and ask them to give you their best rate possible. Also do let them know you'll pay in cash as hotels can save a bit more from the bank charges too.",2,1,2022-01-03 03:30:13 UTC,0,,r4r8t1
-33,hr0z6l1,I don't recommend May through October. Weather's patchy. Rest of the year = great.,1,1,2022-01-03 03:28:43 UTC,3,,r4r8t1
-34,hq1456c,I just got back from the Maldives.  Had it in my carry on - no problem.,3,1,2021-12-26 15:06:34 UTC,0,TattooedTeacher316,r4r8t1
+Write directly to the hotel and ask them to give you their best rate possible. Also do let them know you'll pay in cash as hotels can save a bit more from the bank charges too.",2,1,2022-01-03 03:30:13 UTC,0,,r4r8t1,t1_hnmy66o,300,False,False,maldives
+33,hr0z6l1,I don't recommend May through October. Weather's patchy. Rest of the year = great.,1,1,2022-01-03 03:28:43 UTC,3,,r4r8t1,t1_ho4desq,82,False,False,maldives
+34,hq1456c,I just got back from the Maldives.  Had it in my carry on - no problem.,3,1,2021-12-26 15:06:34 UTC,0,TattooedTeacher316,r4r8t1,t1_hormukc,71,False,False,maldives
 35,i10vjjd,"Hey, I think different employers have vastly different requirements. It's best to check with your future employer bro.  
 
 
  I worked as an Intern at a pretty major company here with no background checks at all (granted I was 17 at the time) and to become a preschool music teacher (at age 19) I had to submit so many reports (insurance, police clearance etc etc)   
 
 
-But I am a local so it could be different.",1,1,2022-03-17 14:45:16 UTC,1,,r4r8t1
+But I am a local so it could be different.",1,1,2022-03-17 14:45:16 UTC,1,,r4r8t1,t1_i0q3va9,410,False,False,maldives
 36,hmil5mg,"thanks for this. However, I was asking more like:
 
 1. Would the sim be more like $5 or $50?
 2. By the ""tip"" I also mean more like ""is $1 a good tip? $5? $10, $20?"" I have no idea what the salaries are and what's ""customary"" on the islands.
 
-I have no idea what's the spending/money power in the Maldives (or salaries).",2,2,2021-11-29 10:13:28 UTC,3,ozyri,r4r8t1
+I have no idea what's the spending/money power in the Maldives (or salaries).",2,2,2021-11-29 10:13:28 UTC,3,ozyri,r4r8t1,t1_hmijl0n,318,False,False,maldives
 37,hmjqcna,"Guidelines aside, how’s the Covid scene there in general? Do you think it’s safe to travel there right now (I’ve flights booked for NYE)?
 I’d presume it might get scary for locals sometimes given you guys see traffic from so many different countries.
-Thanks for this thread!",1,2,2021-11-29 16:40:48 UTC,2,Slayonetta,r4r8t1
-38,hmjk7tv,"I forgot to add that if you have reasonable doubt (provided that you are fully vaccinated and/or you have had COVID within the past 6 months) you can get a retest done, and if it comes back negative you are free to go. You have to request for a retest to HPA, the health protection agency of maldives.",1,2,2021-11-29 15:58:02 UTC,0,,r4r8t1
-39,hmiu4tz,One can dream i suppose,2,2,2021-11-29 12:11:16 UTC,2,Moz3011,r4r8t1
+Thanks for this thread!",1,2,2021-11-29 16:40:48 UTC,2,Slayonetta,r4r8t1,t1_hmik42e,274,False,False,maldives
+38,hmjk7tv,"I forgot to add that if you have reasonable doubt (provided that you are fully vaccinated and/or you have had COVID within the past 6 months) you can get a retest done, and if it comes back negative you are free to go. You have to request for a retest to HPA, the health protection agency of maldives.",1,2,2021-11-29 15:58:02 UTC,0,,r4r8t1,t1_hmiuicx,301,False,False,maldives
+39,hmiu4tz,One can dream i suppose,2,2,2021-11-29 12:11:16 UTC,2,Moz3011,r4r8t1,t1_hmitu7d,23,False,False,maldives
 40,hmma98o,"Okay, I understand your confusions - maybe it's a bit of misinformation from me too.   
-The government circular for guesthouses and hotels state that it should be within 72hrs, that's where we get it from. Most hotels and resorts, prior to reopening were given a training document and to create new plans and we were taught to use PCRs valid within 72hrs of arrival and departure.",1,2,2021-11-30 03:27:49 UTC,1,,r4r8t1
-41,hms3wlz,"We are staying in Malahini resort first, then Meeru Island Resort afterwards, before going to Malé for 1 night. So PCR is not necessary, right?",1,2,2021-12-01 10:17:41 UTC,2,TheBurningDude123,r4r8t1
-42,i0pwy6y,Any recs on Nov vs December? Or are both months pretty good? I'm considering visiting either during Thanksgiving (last week of Nov) or Christmas time. Thanks!,1,2,2022-03-15 06:26:58 UTC,2,ospreyintokyo,r4r8t1
+The government circular for guesthouses and hotels state that it should be within 72hrs, that's where we get it from. Most hotels and resorts, prior to reopening were given a training document and to create new plans and we were taught to use PCRs valid within 72hrs of arrival and departure.",1,2,2021-11-30 03:27:49 UTC,1,,r4r8t1,t1_hml5p6o,380,False,False,maldives
+41,hms3wlz,"We are staying in Malahini resort first, then Meeru Island Resort afterwards, before going to Malé for 1 night. So PCR is not necessary, right?",1,2,2021-12-01 10:17:41 UTC,2,TheBurningDude123,r4r8t1,t1_hmry81u,143,False,False,maldives
+42,i0pwy6y,Any recs on Nov vs December? Or are both months pretty good? I'm considering visiting either during Thanksgiving (last week of Nov) or Christmas time. Thanks!,1,2,2022-03-15 06:26:58 UTC,2,ospreyintokyo,r4r8t1,t1_hr0z6l1,158,False,False,maldives
 43,i10w5iv,"Thanks for the reply, 
 
 I’ve got one sorted I’m just awaiting it being delivered. Hopefully it’s good enough. 
 
-Side questions, where’s the best places to surf and is it easy to buy a board over there? 😅",1,2,2022-03-17 14:49:25 UTC,0,starlinkNFT,r4r8t1
+Side questions, where’s the best places to surf and is it easy to buy a board over there? 😅",1,2,2022-03-17 14:49:25 UTC,0,starlinkNFT,r4r8t1,t1_i10vjjd,203,False,False,maldives
 44,hmj16cw,"I just got a tip for $10 dollars and I am ELATED, beyond the moon. I think I'd be quite happy with a tip of anything between 5 and 20 dollars. I've heard of some of my friends getting outrageous tips, which I honestly could never accept but they work at luxury resorts so it's explained.
 
 Some workers such as waiters and luggage handlers receive a lot of tips but in small amounts so they may not show much gratitude towards it but it really does add up for them.
@@ -124,29 +124,29 @@ Some workers such as waiters and luggage handlers receive a lot of tips but in s
 Tipping is NOT customary in our culture and we do not expect it.  
 
 
-As for the sim, I honestly do not know. You may browse the websites for the largest carriers here Dhiraagu and Ooredoo for the packages they offer. I suspect around 20 to 30 USD for a week or two.",3,3,2021-11-29 13:24:32 UTC,2,,r4r8t1
+As for the sim, I honestly do not know. You may browse the websites for the largest carriers here Dhiraagu and Ooredoo for the packages they offer. I suspect around 20 to 30 USD for a week or two.",3,3,2021-11-29 13:24:32 UTC,2,,r4r8t1,t1_hmil5mg,731,False,False,maldives
 45,hmmbcmw,"We've welcomed about 800 to 1000 (ballpark figure) tourists to our establishment at Maafushi over the last year. We've had only 7 cases this year, so those are your odds.   
-Maldives has an abnormally high vaccination rate too and generally as of now it feels quite safe in terms of COVID. Life is quite normal in the city and active in the islands.",2,3,2021-11-30 03:36:11 UTC,1,,r4r8t1
-46,hmjkx02,Who goes to the maldives to bun lol,5,3,2021-11-29 16:02:57 UTC,1,Leodw45,r4r8t1
+Maldives has an abnormally high vaccination rate too and generally as of now it feels quite safe in terms of COVID. Life is quite normal in the city and active in the islands.",2,3,2021-11-30 03:36:11 UTC,1,,r4r8t1,t1_hmjqcna,349,False,False,maldives
+46,hmjkx02,Who goes to the maldives to bun lol,5,3,2021-11-29 16:02:57 UTC,1,Leodw45,r4r8t1,t1_hmiu4tz,35,False,False,maldives
 47,hnfp6ji,"My understanding is that the 96 hour rule applies to getting into Maldives.  (So arrival requirements). 
 
 72 hours is the timing on a test upon exit only if you have stayed at a guest house (not resort).  So this doesn’t apply to many folks. 
 
-Keep in mind - US and other counties however require exit testing (right now it’s 1 day prior to departure).  Doesn’t have to be a PCR but read up on country specifics.",1,3,2021-12-06 07:55:07 UTC,0,sealutt,r4r8t1
-48,hmwoy7f,"Well theoretically you have to take a PCR, because theoretically Malé is an inhabited island. Risk this move at your own discretion. You likely won't get in trouble but you didn't hear this from me.",1,3,2021-12-02 07:50:17 UTC,1,,r4r8t1
+Keep in mind - US and other counties however require exit testing (right now it’s 1 day prior to departure).  Doesn’t have to be a PCR but read up on country specifics.",1,3,2021-12-06 07:55:07 UTC,0,sealutt,r4r8t1,t1_hmma98o,412,False,False,maldives
+48,hmwoy7f,"Well theoretically you have to take a PCR, because theoretically Malé is an inhabited island. Risk this move at your own discretion. You likely won't get in trouble but you didn't hear this from me.",1,3,2021-12-02 07:50:17 UTC,1,,r4r8t1,t1_hms3wlz,198,False,False,maldives
 49,i10v524,"Sorry I haven't been so active recently.   
 
 
 Both are fine, December better!   
-November is great too but ofcourse Christmas and New Year season is way more festive (but a little pricier)",1,3,2022-03-17 14:42:29 UTC,1,,r4r8t1
+November is great too but ofcourse Christmas and New Year season is way more festive (but a little pricier)",1,3,2022-03-17 14:42:29 UTC,1,,r4r8t1,t1_i0pwy6y,188,False,False,maldives
 50,hmknh94,"As per tipping: can you tip all together at the end of your stay or is it customary to tip on a daily basis for the services provided? (Assuming you are assigned the same person at your service for the entire duration of your stay)? 
 
-Thanks!",4,4,2021-11-29 20:22:26 UTC,1,Typical_Economics_78,r4r8t1
-51,hmnpebe,"Thank you so much, really appreciate this",1,4,2021-11-30 13:08:31 UTC,0,Slayonetta,r4r8t1
-52,hmns8g2,Its another way of enjoy the beautiful islands lol,1,4,2021-11-30 13:34:36 UTC,0,Moz3011,r4r8t1
-53,hmwp4rr,We will do PCR tests in Malé before leaving Maldives. I do not have extra energy to deal with airport security after such a lovely trip to Maldives. Thanks again for the help!,1,4,2021-12-02 07:52:39 UTC,0,TheBurningDude123,r4r8t1
-54,i129ae6,Thank you!,1,4,2022-03-17 20:05:01 UTC,0,ospreyintokyo,r4r8t1
+Thanks!",5,4,2021-11-29 20:22:26 UTC,1,Typical_Economics_78,r4r8t1,t1_hmj16cw,242,False,False,maldives
+51,hmnpebe,"Thank you so much, really appreciate this",1,4,2021-11-30 13:08:31 UTC,0,Slayonetta,r4r8t1,t1_hmmbcmw,41,False,False,maldives
+52,hmns8g2,Its another way of enjoy the beautiful islands lol,1,4,2021-11-30 13:34:36 UTC,0,Moz3011,r4r8t1,t1_hmjkx02,50,False,False,maldives
+53,hmwp4rr,We will do PCR tests in Malé before leaving Maldives. I do not have extra energy to deal with airport security after such a lovely trip to Maldives. Thanks again for the help!,1,4,2021-12-02 07:52:39 UTC,0,TheBurningDude123,r4r8t1,t1_hmwoy7f,175,False,False,maldives
+54,i129ae6,Thank you!,1,4,2022-03-17 20:05:01 UTC,0,ospreyintokyo,r4r8t1,t1_i10v524,10,False,False,maldives
 55,hmmavwj,"Tipping is not part of the Maldivian culture, we honestly do not expect it. Tourism staff have a 10% of the monthly revenue (after certain costs) to an establishment divided at the end of the month equally.   
 
 
-Tips in any amount is generally well received, and it is certainly upt o you when you want to tip.",3,5,2021-11-30 03:32:34 UTC,0,,r4r8t1
+Tips in any amount is generally well received, and it is certainly upt o you when you want to tip.",3,5,2021-11-30 03:32:34 UTC,0,,r4r8t1,t1_hmknh94,310,False,False,maldives

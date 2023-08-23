@@ -1,3 +1,3 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,gpmzjce,Which Island is this?,2,0,2021-03-04 10:05:43 UTC,1,husn,lxeqle
-1,gpqhsyd,Hanimaadhoo,1,1,2021-03-05 03:47:11 UTC,0,,lxeqle
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,gpmzjce,Which Island is this?,2,0,2021-03-04 10:05:43 UTC,1,husn,lxeqle,t3_lxeqle,21,False,False,maldives
+1,gpqhsyd,Hanimaadhoo,1,1,2021-03-05 03:47:11 UTC,0,,lxeqle,t1_gpmzjce,11,False,False,maldives

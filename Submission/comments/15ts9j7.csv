@@ -1,6 +1,6 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,jwlotl2,I forgot hooru maama was  even a thing,4,0,2023-08-17 17:19:15 UTC,0,azurebluejam,15ts9j7
-1,jwlv2kc,We have different names when I come from.,3,0,2023-08-17 17:55:54 UTC,1,q1t0,15ts9j7
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,jwlotl2,I forgot hooru maama was  even a thing,5,0,2023-08-17 17:19:15 UTC,0,azurebluejam,15ts9j7,t3_15ts9j7,38,False,False,maldives
+1,jwlv2kc,We have different names when I come from.,4,0,2023-08-17 17:55:54 UTC,1,q1t0,15ts9j7,t3_15ts9j7,41,False,False,maldives
 2,jwlj27h,"Not sure if it's common in other islands, but in Addu and other parts of the south we also use Amaa along with Munnaa and Maaama for grandmothers. Quite funny because 'Amaa' is almost a derogatory term for Mother in Male dialect.
 
 Never heard Maanbe though. I use Kaafage dhatha, Maama ge dhatha but most of the time just call them by their short name and dhatha, beybe suffix. (Like Mandhathaa, Hawwathaa, Aisa'thaa).
@@ -11,25 +11,25 @@ Offspring's are also still referred in genders. Dhiye for daughter fuh/futhaa fo
 
 BTW, Who's the 'owner'?
 
-Edit: There's also kalo and kanlo to refer kids affectionately. Was wondering if that is used commonly in other islands?",3,0,2023-08-17 16:45:02 UTC,0,z80lives,15ts9j7
+Edit: There's also kalo and kanlo to refer kids affectionately. Was wondering if that is used commonly in other islands?",3,0,2023-08-17 16:45:02 UTC,0,z80lives,15ts9j7,t3_15ts9j7,835,False,False,maldives
 3,jwljkzx,"12+ years of studying Dhivehi and this is the first time I'm seeing some of these words. 
 
-Edit: also, who's the rightful owner, whoever it is, I must say, it's very well done.",2,0,2023-08-17 16:48:09 UTC,5,CarelessNightingale,15ts9j7
-4,jwlgbbz,this is useful,1,0,2023-08-17 16:28:38 UTC,0,th3bakari,15ts9j7
-5,jws788i,i have never heard of a Maafa.,1,0,2023-08-18 22:15:54 UTC,1,Package_Some,15ts9j7
-6,jwveaor,"I'm curious. If you feel comfortable to do so, can you share those names and which atoll.",1,1,2023-08-19 15:48:37 UTC,0,z80lives,15ts9j7
+Edit: also, who's the rightful owner, whoever it is, I must say, it's very well done.",2,0,2023-08-17 16:48:09 UTC,5,CarelessNightingale,15ts9j7,t3_15ts9j7,176,False,False,maldives
+4,jwlgbbz,this is useful,1,0,2023-08-17 16:28:38 UTC,0,th3bakari,15ts9j7,t3_15ts9j7,14,False,False,maldives
+5,jws788i,i have never heard of a Maafa.,1,0,2023-08-18 22:15:54 UTC,1,Package_Some,15ts9j7,t3_15ts9j7,30,False,False,maldives
+6,jwveaor,"I'm curious. If you feel comfortable to do so, can you share those names and which atoll.",1,1,2023-08-19 15:48:37 UTC,0,z80lives,15ts9j7,t1_jwlv2kc,89,False,False,maldives
 7,jwlpkaf,"The lack of focus given to the teaching of our mother language has been shameful.
 
 Our ancestors wouldn't have even tried to leave a legacy if they knew how much we would tarnish their way of life.
 
 We will bring the change, the tides are turning. Be sure to vote on Sep 9.
 
-The fate of this nation depends on you.",-4,1,2023-08-17 17:23:33 UTC,4,hassankurusee,15ts9j7
-8,jwverjg,"I thought that's was very common word, even few older Malé people use it. Which island/atoll are you from? Also how about 'Munnaa' have you heard of it?",1,1,2023-08-19 15:51:36 UTC,0,z80lives,15ts9j7
-9,jwm1k41,"Get fucked, no one cares about you or your type. We have outsmarted your generation, your laughable propaganda and soundbytes may work with the simpletons you surround yourself with, but not here. Will never vote ever again.",3,2,2023-08-17 18:34:22 UTC,0,BudovicLagman,15ts9j7
+The fate of this nation depends on you.",-4,1,2023-08-17 17:23:33 UTC,4,hassankurusee,15ts9j7,t1_jwljkzx,314,False,False,maldives
+8,jwverjg,"I thought that's was very common word, even few older Malé people use it. Which island/atoll are you from? Also how about 'Munnaa' have you heard of it?",1,1,2023-08-19 15:51:36 UTC,0,z80lives,15ts9j7,t1_jws788i,152,False,False,maldives
+9,jwm1k41,"Get fucked, no one cares about you or your type. We have outsmarted your generation, your laughable propaganda and soundbytes may work with the simpletons you surround yourself with, but not here. Will never vote ever again.",3,2,2023-08-17 18:34:22 UTC,0,BudovicLagman,15ts9j7,t1_jwlpkaf,224,False,False,maldives
 10,jwo92st,"To be fair, Dhivehi needs to be updated. For instance, I work in tech. Dhivehi has no words for most of the things we need to talk about. I think we've all seen the recent cyber crime bill. It's entirely written using english words. It's an embarrassment to the language that we have to resort to it. 
 
-Dhivehi needs to get with the times or it'll get left with the dust. We the new generation aren't gonna stay around with it just because of sentimentality. A language has to be practical first and foremost. :)",3,2,2023-08-18 03:26:13 UTC,1,menixator,15ts9j7
+Dhivehi needs to get with the times or it'll get left with the dust. We the new generation aren't gonna stay around with it just because of sentimentality. A language has to be practical first and foremost. :)",3,2,2023-08-18 03:26:13 UTC,1,menixator,15ts9j7,t1_jwlpkaf,512,False,False,maldives
 11,jwm4jtr,"To u/BudovicLagman:
 
 Enough people care to make a change. It's a shame you won't be part of it. Hope you realize it before it's too late.
@@ -38,7 +38,7 @@ We represent the ails and suffering of Generation Z.
 
 We bear them willingly and we'll fight for their rights as long as we hold breath. For they are the undeniable future.
 
-We as a people under the Constitution of the Republic of the Maldives, will make a change.",0,2,2023-08-17 18:52:13 UTC,0,hassankurusee,15ts9j7
+We as a people under the Constitution of the Republic of the Maldives, will make a change.",0,2,2023-08-17 18:52:13 UTC,0,hassankurusee,15ts9j7,t1_jwlpkaf,404,1692299958.0,False,maldives
 12,jwq4xdy,"You do have a solid point about the lack of Dhivehi words in the context of Information, Communication and Technology (ICT). 
 
 Be that as it may, looking at the Japanese language for an example, we see that almost all of the names of many electronic devices, peripherals, hardware and whatnot are literally the same as the words in English (pronounced with a touch of Japanese pronunciation of course). 
@@ -49,4 +49,4 @@ With all due respect, I personally feel that this is not a problem faced by the 
 
 With that said, I do not see the Japanese language losing its relevance in the aforementioned context and do not see why Dhivehi should also become ""irrelevant"".
 
-What are your thoughts on this?",1,3,2023-08-18 14:32:32 UTC,0,Zestyclose-Speed-370,15ts9j7
+What are your thoughts on this?",1,3,2023-08-18 14:32:32 UTC,0,Zestyclose-Speed-370,15ts9j7,t1_jwo92st,916,False,True,maldives

@@ -1,7 +1,7 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,gvxqrcu,dead people were from my family :(,4,0,2021-04-26 15:07:48 UTC,1,Ismail_Rafah,mtns2w
-1,gw5rcis,[removed],4,0,2021-04-28 11:20:40 UTC,1,,mtns2w
-2,gv2cjfv,Why?,3,0,2021-04-19 10:02:38 UTC,1,,mtns2w
-3,gw0vzth,Sorry to hear that😔,4,1,2021-04-27 06:57:18 UTC,0,,mtns2w
-4,gwbvuag,Our country is turning into the next venezuela 😔,3,1,2021-04-29 18:47:38 UTC,0,,mtns2w
-5,gv5bg36,He’s a dictator he just felt like doing it,3,1,2021-04-20 00:29:07 UTC,0,,mtns2w
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,gvxqrcu,dead people were from my family :(,5,0,2021-04-26 15:07:48 UTC,1,Ismail_Rafah,mtns2w,t3_mtns2w,34,False,False,maldives
+1,gw5rcis,[removed],4,0,2021-04-28 11:20:40 UTC,1,,mtns2w,t3_mtns2w,9,False,False,maldives
+2,gv2cjfv,Why?,3,0,2021-04-19 10:02:38 UTC,1,,mtns2w,t3_mtns2w,4,False,False,maldives
+3,gw0vzth,Sorry to hear that😔,4,1,2021-04-27 06:57:18 UTC,0,,mtns2w,t1_gvxqrcu,19,False,False,maldives
+4,gwbvuag,Our country is turning into the next venezuela 😔,3,1,2021-04-29 18:47:38 UTC,0,,mtns2w,t1_gw5rcis,48,False,False,maldives
+5,gv5bg36,He’s a dictator he just felt like doing it,3,1,2021-04-20 00:29:07 UTC,0,,mtns2w,t1_gv2cjfv,42,False,False,maldives

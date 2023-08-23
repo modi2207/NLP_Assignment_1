@@ -1,7 +1,7 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,ex6uh1s,Finally someone smiled at the very end,1,0,2019-08-17 14:20:41 UTC,2,RockerDawg,crk1ih
-1,exbars8,Love it,1,0,2019-08-18 11:17:24 UTC,2,,crk1ih
-2,ex77jej,;),1,1,2019-08-17 15:49:45 UTC,1,Al_Vendra,crk1ih
-3,exbatoa,Thank you Buddy!,2,1,2019-08-18 11:17:59 UTC,1,Al_Vendra,crk1ih
-4,ex7gdmr,Sorry should have added that I love the footage,1,2,2019-08-17 16:41:12 UTC,0,RockerDawg,crk1ih
-5,exbawv6,Welcome,1,2,2019-08-18 11:18:56 UTC,0,,crk1ih
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,ex6uh1s,Finally someone smiled at the very end,1,0,2019-08-17 14:20:41 UTC,2,RockerDawg,crk1ih,t3_crk1ih,38,False,False,maldives
+1,exbars8,Love it,1,0,2019-08-18 11:17:24 UTC,2,,crk1ih,t3_crk1ih,7,False,False,maldives
+2,ex77jej,;),1,1,2019-08-17 15:49:45 UTC,1,Al_Vendra,crk1ih,t1_ex6uh1s,2,False,True,maldives
+3,exbatoa,Thank you Buddy!,2,1,2019-08-18 11:17:59 UTC,1,Al_Vendra,crk1ih,t1_exbars8,16,False,True,maldives
+4,ex7gdmr,Sorry should have added that I love the footage,1,2,2019-08-17 16:41:12 UTC,0,RockerDawg,crk1ih,t1_ex77jej,47,False,False,maldives
+5,exbawv6,Welcome,1,2,2019-08-18 11:18:56 UTC,0,,crk1ih,t1_exbatoa,7,False,False,maldives

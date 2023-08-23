@@ -1,3 +1,3 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,gag3qc1,Which resort was he at when he made this statement?,7,0,2020-10-29 01:29:33 UTC,1,max34205,jjo82u
-1,gahkn7g,I was not aware that he was at any resort.,1,1,2020-10-29 13:29:54 UTC,0,,jjo82u
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,gag3qc1,Which resort was he at when he made this statement?,6,0,2020-10-29 01:29:33 UTC,1,max34205,jjo82u,t3_jjo82u,51,False,False,maldives
+1,gahkn7g,I was not aware that he was at any resort.,1,1,2020-10-29 13:29:54 UTC,0,,jjo82u,t1_gag3qc1,42,False,False,maldives

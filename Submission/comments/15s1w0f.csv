@@ -1,4 +1,4 @@
-,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID
-0,jwgxncf,thats a nice cat if I ever seen one,2,0,2023-08-16 18:59:57 UTC,2,BuruceWayne,15s1w0f
-1,jwgxsqs,Yes she is super friendly and likes to sleep on bikes,2,1,2023-08-16 19:00:50 UTC,1,burgerman000,15s1w0f
-2,jwq8rf5,Yeap. This is her favourite spot.,2,2,2023-08-18 14:56:29 UTC,0,riffathriza,15s1w0f
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,jwgxncf,thats a nice cat if I ever seen one,2,0,2023-08-16 18:59:57 UTC,2,BuruceWayne,15s1w0f,t3_15s1w0f,35,False,False,maldives
+1,jwgxsqs,Yes she is super friendly and likes to sleep on bikes,2,1,2023-08-16 19:00:50 UTC,1,burgerman000,15s1w0f,t1_jwgxncf,53,False,True,maldives
+2,jwq8rf5,Yeap. This is her favourite spot.,2,2,2023-08-18 14:56:29 UTC,0,riffathriza,15s1w0f,t1_jwgxsqs,33,False,False,maldives
