@@ -1,0 +1,15 @@
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,go2qg9f,Which island is it?,2,0,2021-02-20 02:07:01 UTC,7,,lnvo5h,t3_lnvo5h,19,False,False,maldives
+1,go4ixwo,May I ask cost? And how long was flight? Has everything gone seamless?,2,0,2021-02-20 15:15:50 UTC,4,Mahadragon,lnvo5h,t3_lnvo5h,70,False,False,maldives
+2,go3ii34,Huruvalhi  Raa atoll,2,1,2021-02-20 06:51:18 UTC,6,Triggerfish111,lnvo5h,t1_go2qg9f,20,False,True,maldives
+3,go7lqyb,Now them have very good offer : water villa with breakfast for 30 days cost 6000$ + tax (23%) + fly on hydroplane in both sides 450$ for one person,2,1,2021-02-21 08:56:20 UTC,2,Triggerfish111,lnvo5h,t1_go4ixwo,147,False,True,maldives
+4,go7ltly,"I m fly from Dubai now , it 4:30h  to Male",1,1,2021-02-21 08:57:30 UTC,0,Triggerfish111,lnvo5h,t1_go4ixwo,42,False,True,maldives
+5,go3pbjh,"Is it a resort or an island? Amazing, I love your photos! Enjoy paradise!",2,2,2021-02-20 08:30:44 UTC,3,,lnvo5h,t1_go3ii34,73,False,False,maldives
+6,gqb0aoj,"How did you afford to stay there for 2 months? Forget the cost, how do you work there? Online?",1,2,2021-03-09 07:32:25 UTC,1,rezrekt1,lnvo5h,t1_go3ii34,94,False,False,maldives
+7,gorge18,$6000 for 30 days? How did you manage that?,1,2,2021-02-25 22:30:13 UTC,1,DeathRebirth,lnvo5h,t1_go7lqyb,43,False,False,maldives
+8,go4eonu,"This resort : The Standard , thank u!",2,3,2021-02-20 14:34:47 UTC,0,Triggerfish111,lnvo5h,t1_go3pbjh,37,False,True,maldives
+9,gov1uz5,All the resorts are islands by the way :),1,3,2021-02-26 18:24:58 UTC,1,sofierylala,lnvo5h,t1_go3pbjh,41,False,False,maldives
+10,gran4ow,"Yes, online, I m tax consultant- I usually work online",1,3,2021-03-17 23:38:08 UTC,0,Triggerfish111,lnvo5h,t1_gqb0aoj,54,False,True,maldives
+11,gou131o,"This resort ( The Standard) has limited time offer in February, but I m stay here two months, from 29 December 2020 , but I have full board and price more expensive
+But check now , maybe them have same offer for March - I mean : water villa (2 persons)+ breakfast(for two persons ) on 30 days for 6000$+23%(tax)+450$ for seaplane(for one person)",1,3,2021-02-26 14:49:40 UTC,0,Triggerfish111,lnvo5h,t1_gorge18,345,False,True,maldives
+12,goxph9g,"Of course but all the resorts are local islands, too. :)",1,4,2021-02-27 03:34:50 UTC,0,,lnvo5h,t1_gov1uz5,56,False,False,maldives

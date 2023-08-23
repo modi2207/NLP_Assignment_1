@@ -1,0 +1,5 @@
+,ID,Text,Upvotes,Depth,Created Timestamp(UTC),Replies,Author,Post ID,Parrant Comment ID,Text Length,Edited,Is Submitter,Subreddit Name
+0,fq5l776,Sure thing. On it,2,0,2020-05-10 11:19:58 UTC,1,Craiggem,ggzmcy,t3_ggzmcy,17,False,False,maldives
+1,fq7wj4l,"Hey OP. Unfortunately I can't help as we're in lockdown at the moment, But do you think I could see the video once it's done?",1,0,2020-05-10 23:34:20 UTC,1,Voidvicer,ggzmcy,t3_ggzmcy,125,False,False,maldives
+2,fq7pojm,"Hey, do you play Pokémon Go? I’d love to be friends with a player in the Maldives.",1,1,2020-05-10 22:28:07 UTC,0,nerdfighter8842,ggzmcy,t1_fq5l776,82,False,False,maldives
+3,fq7xtlm,"yes, I will probably post it at the end of the week!",1,1,2020-05-10 23:46:50 UTC,0,kaisei_forman,ggzmcy,t1_fq7wj4l,52,False,True,maldives
