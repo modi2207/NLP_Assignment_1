@@ -56,9 +56,19 @@ class ReditScrape:
             f = open(csv_path, "w")
             post_df.to_csv(csv_path, index=True)
             f.close()
+    def merge(self):
+        df=pd.DataFrame()
+        listFiles=os.listdir(os.path.join(os.getcwd(),'Submission\\comments'))
+        for file in listFiles:
+            data=pd.read_csv(os.path.join(os.getcwd(),f'Submission\\comments\\{file}'))
+            df=pd.concat([df,data],axis=0)
+        df.to_csv(os.path.join(os.getcwd(),f'Submission\\merged_comments.csv'),index=True)
+
+
 redit_instance=ReditScrape()
 redit_instance.initialize()
-redit_instance.generate()
+#redit_instance.generate()
+redit_instance.merge()
 
 
 
