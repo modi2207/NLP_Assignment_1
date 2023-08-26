@@ -110,10 +110,8 @@ class LabelComments:
         self.mergedComments.to_csv(os.path.join(os.getcwd(), f'Submission\\merged_comments.csv'), index=False)
     def extractComments(self):
         self.mergedComments=pd.read_csv(os.path.join(os.getcwd(),"Submission\\merged_comments.csv"))
-        for i in range(0,len(self.mergedComments)):
-            if len(str(self.mergedComments.iloc[i,25]))==0:
-                self.mergedComments.drop(i,axis=0,inplace=True)
-
+        condition = self.mergedComments.apply(lambda row: len(str(row["final label"])) == 3, axis=1)
+        self.mergedComments = self.mergedComments[~condition]
         self.positiveComments=self.mergedComments.loc[self.mergedComments['final label']=='positive']
         self.nagativeComments=self.mergedComments.loc[self.mergedComments['final label']=='nagative']
         self.neutralComments=self.mergedComments.loc[self.mergedComments['final label']=='neutral']
@@ -121,6 +119,21 @@ class LabelComments:
         self.positiveComments.to_csv(os.path.join(os.getcwd(), f'Submission\\postive_comments.csv'), index=False)
         self.neutralComments.to_csv(os.path.join(os.getcwd(), f'Submission\\neutral_comments.csv'), index=False)
         self.nagativeComments.to_csv(os.path.join(os.getcwd(), f'Submission\\nagative_comments.csv'), index=False)
+        self.mergedComments.drop("seethal positive", axis=1, inplace=True)
+        self.mergedComments.drop("seethal nagative", axis=1, inplace=True)
+        self.mergedComments.drop("seethal neutral", axis=1, inplace=True)
+        self.mergedComments.drop("twitter positive", axis=1, inplace=True)
+        self.mergedComments.drop("twitter nagative", axis=1, inplace=True)
+        self.mergedComments.drop("twitter neutral", axis=1, inplace=True)
+        self.mergedComments.drop("finiteautomata positive", axis=1, inplace=True)
+        self.mergedComments.drop("finiteautomata nagative", axis=1, inplace=True)
+        self.mergedComments.drop("finiteautomata neutral", axis=1, inplace=True)
+        self.mergedComments.drop("seethal label", axis=1, inplace=True)
+        self.mergedComments.drop("twitter label", axis=1, inplace=True)
+
+        self.mergedComments.drop("finiteautomata label", axis=1, inplace=True)
+        self.mergedComments.drop("final label", axis=1, inplace=True)
+        self.mergedComments.to_csv(os.path.join(os.getcwd(), f'Submission\\allcomments.csv'), index=False)
         count=0
         j=0
         i=0
@@ -201,7 +214,7 @@ class LabelComments:
         df.to_csv(os.path.join(os.getcwd(), f'Submission\\hundred_comments.csv'),index=False)
 
 labelComments=LabelComments()
-labelComments.generateLabel()
+#labelComments.generateLabel()
 labelComments.extractComments()
 
 
