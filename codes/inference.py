@@ -23,8 +23,8 @@ class LabelComments:
             response = requests.post(self.configurationData["finiteautomata_url"], headers={"Authorization":self.configurationData["hugging_face_token"]}, json=payload)
             return response.json()
     def generateLabel(self):
-        self.processedComments=pd.read_csv(os.path.join(os.getcwd(),"Submission\\preprocessed_comments.csv"))
-        self.mergedComments=pd.read_csv(os.path.join(os.getcwd(),"Submission\\merged_comments.csv"))
+        self.processedComments=pd.read_csv(os.path.join(os.getcwd(),"..\\Submission\\preprocessed_comments.csv"))
+        self.mergedComments=pd.read_csv(os.path.join(os.getcwd(),"..\\Submission\\merged_comments.csv"))
 
         self.mergedComments["seethal positive"]=np.NAN
         self.mergedComments["seethal nagative"]=np.NAN
@@ -107,18 +107,18 @@ class LabelComments:
             except Exception as error:
                 print("exception occurred ",error)
 
-        self.mergedComments.to_csv(os.path.join(os.getcwd(), f'Submission\\merged_comments.csv'), index=False)
+        self.mergedComments.to_csv(os.path.join(os.getcwd(), f'..\\Submission\\merged_comments.csv'), index=False)
     def extractComments(self):
-        self.mergedComments=pd.read_csv(os.path.join(os.getcwd(),"Submission\\merged_comments.csv"))
+        self.mergedComments=pd.read_csv(os.path.join(os.getcwd(),"..\\Submission\\merged_comments.csv"))
         condition = self.mergedComments.apply(lambda row: len(str(row["final label"])) == 3, axis=1)
         self.mergedComments = self.mergedComments[~condition]
         self.positiveComments=self.mergedComments.loc[self.mergedComments['final label']=='positive']
         self.nagativeComments=self.mergedComments.loc[self.mergedComments['final label']=='nagative']
         self.neutralComments=self.mergedComments.loc[self.mergedComments['final label']=='neutral']
-        self.mergedComments.to_csv(os.path.join(os.getcwd(), f'Submission\\merged_comments.csv'), index=False)
-        self.positiveComments.to_csv(os.path.join(os.getcwd(), f'Submission\\postive_comments.csv'), index=False)
-        self.neutralComments.to_csv(os.path.join(os.getcwd(), f'Submission\\neutral_comments.csv'), index=False)
-        self.nagativeComments.to_csv(os.path.join(os.getcwd(), f'Submission\\nagative_comments.csv'), index=False)
+        self.mergedComments.to_csv(os.path.join(os.getcwd(), f'..\\Submission\\merged_comments.csv'), index=False)
+        self.positiveComments.to_csv(os.path.join(os.getcwd(), f'..\\Submission\\postive_comments.csv'), index=False)
+        self.neutralComments.to_csv(os.path.join(os.getcwd(), f'..\\Submission\\neutral_comments.csv'), index=False)
+        self.nagativeComments.to_csv(os.path.join(os.getcwd(), f'..\\Submission\\nagative_comments.csv'), index=False)
         self.mergedComments.drop("seethal positive", axis=1, inplace=True)
         self.mergedComments.drop("seethal nagative", axis=1, inplace=True)
         self.mergedComments.drop("seethal neutral", axis=1, inplace=True)
@@ -213,9 +213,17 @@ class LabelComments:
 
         df.to_csv(os.path.join(os.getcwd(), f'Submission\\hundred_comments.csv'),index=False)
 
+    def mergeModelLable(self):
+        df = pd.read_csv(os.path.join(os.getcwd(), "..\\Submission\\hundred_comments_with_ans.csv"))
+        df_ = pd.read_csv(os.path.join(os.getcwd(), "..\\Submission\\human_eval.csv"))
+        column_to_copy=df["final label"]
+        df_["Model Majority Label"]=column_to_copy
+        df_.to_csv(os.path.join(os.getcwd(), f'..\\Submission\\human_eval.csv'),index=False)
+
 labelComments=LabelComments()
-#labelComments.generateLabel()
+labelComments.generateLabel()
 labelComments.extractComments()
+labelComments.mergeModelLable()
 
 
 

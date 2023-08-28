@@ -72,7 +72,7 @@ class ReditScrape:
 
 redit_instance=ReditScrape()
 redit_instance.initialize()
-#redit_instance.generate()
+redit_instance.generate()
 redit_instance.merge()
 
 
