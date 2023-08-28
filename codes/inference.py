@@ -220,10 +220,28 @@ class LabelComments:
         df_["Model Majority Label"]=column_to_copy
         df_.to_csv(os.path.join(os.getcwd(), f'..\\Submission\\human_eval.csv'),index=False)
 
+    def generateMajorityLabel(self):
+        label_columns = ['seethal label', 'twitter label', 'finiteautomata label', 'final label']
+        df = pd.read_csv(os.path.join(os.getcwd(), "..\\comments\\model_labled_comments.csv"))
+        majority_labels = df[label_columns].mode().iloc[0]
+        data={'seethal label':majority_labels["seethal label"],'twitter label':majority_labels["twitter label"],'finiteautomata label':majority_labels["finiteautomata label"],'final label':majority_labels["final label"]}
+        df.loc[len(df), :] = data
+        df.to_csv(os.path.join(os.getcwd(), f'..\\comments\\model_labled_comments.csv'),index=False)
+        df = pd.read_csv(os.path.join(os.getcwd(), "..\\comments\\human_eval.csv"))
+        label_columns = ['Student_1 (Rakesh)', 'Student_2 (Aamod)', 'Student_3 (Dhruv)', 'Human Majority Label','Model Majority Label']
+        majority_labels = df[label_columns].mode().iloc[0]
+        data = {'Student_1 (Rakesh)': majority_labels["Student_1 (Rakesh)"], 'Student_2 (Aamod)': majority_labels["Student_2 (Aamod)"],
+                'Student_3 (Dhruv)': majority_labels["Student_3 (Dhruv)"],
+                'Human Majority Label': majority_labels["Human Majority Label"],'Model Majority Label': majority_labels["Model Majority Label"]}
+        df.loc[len(df), :] = data
+        df.to_csv(os.path.join(os.getcwd(), f'..\\comments\\human_eval.csv'), index=False)
+
+
 labelComments=LabelComments()
-labelComments.generateLabel()
-labelComments.extractComments()
-labelComments.mergeModelLable()
+#labelComments.generateLabel()
+#labelComments.extractComments()
+#labelComments.mergeModelLable()
+labelComments.generateMajorityLabel()
 
 
 
